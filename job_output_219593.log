@@ -1,0 +1,933 @@
+Using device: cuda
+Processing file: u976.0.csv
+Loaded pretrained model from models/alpha1_c2_best_model.pth
+Episode 100/3000, Total Reward: 94, Avg Reward: 68.9, Avg Loss: 14.448217866420746
+Episode 200/3000, Total Reward: 96, Avg Reward: 94.6, Avg Loss: 0.9190537840127945
+Episode 300/3000, Total Reward: 96, Avg Reward: 94.26, Avg Loss: 2.070999633669853
+Episode 400/3000, Total Reward: 92, Avg Reward: 91.18, Avg Loss: 3.173700450658798
+Episode 500/3000, Total Reward: 100, Avg Reward: 92.58, Avg Loss: 3.169210272729397
+Episode 600/3000, Total Reward: 94, Avg Reward: 94.86, Avg Loss: 1.5131717112660408
+Episode 700/3000, Total Reward: 96, Avg Reward: 95.2, Avg Loss: 1.7081991159915924
+Episode 800/3000, Total Reward: 98, Avg Reward: 94.86, Avg Loss: 2.6532654619216918
+Episode 900/3000, Total Reward: 96, Avg Reward: 95.8, Avg Loss: 0.8273095571994782
+Episode 1000/3000, Total Reward: 96, Avg Reward: 96.24, Avg Loss: 0.6435398715734482
+Episode 1100/3000, Total Reward: 92, Avg Reward: 95.7, Avg Loss: 0.806191882789135
+Episode 1200/3000, Total Reward: 96, Avg Reward: 95.86, Avg Loss: 0.34587572753429413
+Episode 1300/3000, Total Reward: 92, Avg Reward: 95.12, Avg Loss: 1.7428745111823083
+Episode 1400/3000, Total Reward: 94, Avg Reward: 95.84, Avg Loss: 1.3718122765421867
+Episode 1500/3000, Total Reward: 98, Avg Reward: 94.18, Avg Loss: 2.6036432448029516
+Episode 1600/3000, Total Reward: 98, Avg Reward: 94.54, Avg Loss: 2.49356703042984
+Episode 1700/3000, Total Reward: 98, Avg Reward: 96.8, Avg Loss: 0.4724308240413666
+Episode 1800/3000, Total Reward: 96, Avg Reward: 96.98, Avg Loss: 0.4171008408069611
+Episode 1900/3000, Total Reward: 98, Avg Reward: 97.42, Avg Loss: 0.35021538853645323
+Episode 2000/3000, Total Reward: 96, Avg Reward: 96.48, Avg Loss: 0.7893237572908401
+Episode 2100/3000, Total Reward: 92, Avg Reward: 95.68, Avg Loss: 1.6365050640702248
+Episode 2200/3000, Total Reward: 96, Avg Reward: 96.84, Avg Loss: 0.8287766185402871
+Episode 2300/3000, Total Reward: 94, Avg Reward: 95.44, Avg Loss: 1.7461246687173844
+Episode 2400/3000, Total Reward: 96, Avg Reward: 96.72, Avg Loss: 0.5427729372680187
+Episode 2500/3000, Total Reward: 94, Avg Reward: 95.54, Avg Loss: 2.073612988591194
+Episode 2600/3000, Total Reward: 94, Avg Reward: 95.48, Avg Loss: 2.0643643099069595
+Episode 2700/3000, Total Reward: 96, Avg Reward: 95.1, Avg Loss: 2.376770627498627
+Episode 2800/3000, Total Reward: 96, Avg Reward: 96.1, Avg Loss: 1.5765271830558776
+Episode 2900/3000, Total Reward: 100, Avg Reward: 96.02, Avg Loss: 1.4194206300377845
+Converged after 2900 episodes with Avg Reward: 97.42
+Model saved at models/a2_100s/trained_model_u976.0.csv.pth
+Processing file: u864.0.csv
+Loaded pretrained model from models/alpha1_c2_best_model.pth
+Episode 100/3000, Total Reward: 72, Avg Reward: 52.58, Avg Loss: 19.515091080665588
+Episode 200/3000, Total Reward: 62, Avg Reward: 72.0, Avg Loss: 12.377208576202392
+Episode 300/3000, Total Reward: 84, Avg Reward: 77.34, Avg Loss: 7.415077176094055
+Episode 400/3000, Total Reward: 86, Avg Reward: 81.5, Avg Loss: 8.180126366615296
+Episode 500/3000, Total Reward: 82, Avg Reward: 81.8, Avg Loss: 7.846426730155945
+Episode 600/3000, Total Reward: 88, Avg Reward: 81.94, Avg Loss: 7.300752112865448
+Episode 700/3000, Total Reward: 82, Avg Reward: 83.48, Avg Loss: 5.8611685907840725
+Episode 800/3000, Total Reward: 88, Avg Reward: 84.06, Avg Loss: 6.3858076548576355
+Episode 900/3000, Total Reward: 86, Avg Reward: 84.34, Avg Loss: 5.570788426399231
+Episode 1000/3000, Total Reward: 88, Avg Reward: 84.44, Avg Loss: 5.548205950260162
+Episode 1100/3000, Total Reward: 94, Avg Reward: 85.1, Avg Loss: 5.141993408203125
+Episode 1200/3000, Total Reward: 82, Avg Reward: 84.74, Avg Loss: 5.878552105426788
+Episode 1300/3000, Total Reward: 88, Avg Reward: 85.2, Avg Loss: 4.987283163070678
+Episode 1400/3000, Total Reward: 92, Avg Reward: 86.56, Avg Loss: 4.289796817302704
+Episode 1500/3000, Total Reward: 88, Avg Reward: 87.08, Avg Loss: 4.6591351914405825
+Episode 1600/3000, Total Reward: 88, Avg Reward: 86.38, Avg Loss: 4.9365640389919285
+Episode 1700/3000, Total Reward: 82, Avg Reward: 86.04, Avg Loss: 4.299078738689422
+Episode 1800/3000, Total Reward: 90, Avg Reward: 86.92, Avg Loss: 4.705512384176254
+Episode 1900/3000, Total Reward: 88, Avg Reward: 87.22, Avg Loss: 4.150166952610016
+Episode 2000/3000, Total Reward: 88, Avg Reward: 87.42, Avg Loss: 4.648324797153473
+Episode 2100/3000, Total Reward: 86, Avg Reward: 87.32, Avg Loss: 4.928886493444443
+Episode 2200/3000, Total Reward: 86, Avg Reward: 85.2, Avg Loss: 5.502994906902313
+Episode 2300/3000, Total Reward: 90, Avg Reward: 86.5, Avg Loss: 5.019914562702179
+Episode 2400/3000, Total Reward: 90, Avg Reward: 87.06, Avg Loss: 5.446778094768524
+Episode 2500/3000, Total Reward: 86, Avg Reward: 87.3, Avg Loss: 4.629831972122193
+Episode 2600/3000, Total Reward: 86, Avg Reward: 85.26, Avg Loss: 6.357640037536621
+Episode 2700/3000, Total Reward: 94, Avg Reward: 88.74, Avg Loss: 4.413884154558182
+Episode 2800/3000, Total Reward: 94, Avg Reward: 88.34, Avg Loss: 3.978097081184387
+Episode 2900/3000, Total Reward: 84, Avg Reward: 86.32, Avg Loss: 6.578971254825592
+Episode 3000/3000, Total Reward: 82, Avg Reward: 88.68, Avg Loss: 4.239629722833634
+Model saved at models/a2_100s/trained_model_u864.0.csv.pth
+Processing file: u742.0.csv
+Loaded pretrained model from models/alpha1_c2_best_model.pth
+Episode 100/3000, Total Reward: 64, Avg Reward: 61.72, Avg Loss: 13.91113452911377
+Episode 200/3000, Total Reward: 88, Avg Reward: 83.14, Avg Loss: 4.704070360660553
+Episode 300/3000, Total Reward: 80, Avg Reward: 86.42, Avg Loss: 3.606191998720169
+Episode 400/3000, Total Reward: 94, Avg Reward: 87.22, Avg Loss: 4.101279999017716
+Episode 500/3000, Total Reward: 94, Avg Reward: 88.02, Avg Loss: 3.833585923910141
+Episode 600/3000, Total Reward: 86, Avg Reward: 89.3, Avg Loss: 2.992057818174362
+Episode 700/3000, Total Reward: 82, Avg Reward: 91.14, Avg Loss: 2.03083020567894
+Episode 800/3000, Total Reward: 98, Avg Reward: 89.52, Avg Loss: 3.3270553338527677
+Episode 900/3000, Total Reward: 92, Avg Reward: 91.6, Avg Loss: 2.924714136123657
+Episode 1000/3000, Total Reward: 98, Avg Reward: 92.12, Avg Loss: 2.2522136878967287
+Episode 1100/3000, Total Reward: 92, Avg Reward: 91.82, Avg Loss: 2.799493474960327
+Episode 1200/3000, Total Reward: 86, Avg Reward: 90.88, Avg Loss: 3.644652589559555
+Episode 1300/3000, Total Reward: 96, Avg Reward: 90.04, Avg Loss: 3.851783832907677
+Episode 1400/3000, Total Reward: 98, Avg Reward: 92.84, Avg Loss: 1.7613922584056854
+Episode 1500/3000, Total Reward: 98, Avg Reward: 91.5, Avg Loss: 2.7058044254779814
+Episode 1600/3000, Total Reward: 94, Avg Reward: 89.38, Avg Loss: 4.381655975580215
+Episode 1700/3000, Total Reward: 94, Avg Reward: 91.86, Avg Loss: 2.311136148571968
+Episode 1800/3000, Total Reward: 96, Avg Reward: 93.8, Avg Loss: 1.0014996880292892
+Episode 1900/3000, Total Reward: 90, Avg Reward: 92.64, Avg Loss: 2.4327325826883315
+Episode 2000/3000, Total Reward: 86, Avg Reward: 93.24, Avg Loss: 1.72924069583416
+Episode 2100/3000, Total Reward: 96, Avg Reward: 93.44, Avg Loss: 1.6698067444562912
+Episode 2200/3000, Total Reward: 94, Avg Reward: 93.28, Avg Loss: 1.816434866786003
+Episode 2300/3000, Total Reward: 96, Avg Reward: 93.38, Avg Loss: 2.8594649839401245
+Episode 2400/3000, Total Reward: 92, Avg Reward: 92.32, Avg Loss: 2.973277059197426
+Episode 2500/3000, Total Reward: 88, Avg Reward: 92.64, Avg Loss: 2.305566465854645
+Episode 2600/3000, Total Reward: 92, Avg Reward: 93.66, Avg Loss: 2.0066250312328338
+Episode 2700/3000, Total Reward: 86, Avg Reward: 91.6, Avg Loss: 3.8092231065034867
+Episode 2800/3000, Total Reward: 94, Avg Reward: 93.04, Avg Loss: 2.139813221693039
+Converged after 2800 episodes with Avg Reward: 93.8
+Model saved at models/a2_100s/trained_model_u742.0.csv.pth
+Processing file: u572.0.csv
+Loaded pretrained model from models/alpha1_c2_best_model.pth
+Episode 100/3000, Total Reward: 84, Avg Reward: 65.36, Avg Loss: 13.2915261054039
+Episode 200/3000, Total Reward: 94, Avg Reward: 87.42, Avg Loss: 4.216207212209701
+Episode 300/3000, Total Reward: 88, Avg Reward: 90.04, Avg Loss: 3.365861041545868
+Episode 400/3000, Total Reward: 90, Avg Reward: 91.28, Avg Loss: 3.4536056405305864
+Episode 500/3000, Total Reward: 94, Avg Reward: 93.26, Avg Loss: 0.9747004991769791
+Episode 600/3000, Total Reward: 92, Avg Reward: 93.16, Avg Loss: 2.002143942117691
+Episode 700/3000, Total Reward: 94, Avg Reward: 93.34, Avg Loss: 0.7566644358634949
+Episode 800/3000, Total Reward: 96, Avg Reward: 94.26, Avg Loss: 1.2187537866830827
+Episode 900/3000, Total Reward: 90, Avg Reward: 94.08, Avg Loss: 0.9796726828813553
+Episode 1000/3000, Total Reward: 92, Avg Reward: 94.64, Avg Loss: 1.3381064039468766
+Episode 1100/3000, Total Reward: 92, Avg Reward: 93.62, Avg Loss: 2.4678807073831557
+Episode 1200/3000, Total Reward: 92, Avg Reward: 94.14, Avg Loss: 2.2999179846048357
+Episode 1300/3000, Total Reward: 94, Avg Reward: 93.8, Avg Loss: 1.3951295173168183
+Episode 1400/3000, Total Reward: 92, Avg Reward: 93.82, Avg Loss: 2.349813506603241
+Episode 1500/3000, Total Reward: 96, Avg Reward: 94.04, Avg Loss: 2.5754486870765687
+Episode 1600/3000, Total Reward: 94, Avg Reward: 94.06, Avg Loss: 1.0081396013498307
+Episode 1700/3000, Total Reward: 98, Avg Reward: 93.04, Avg Loss: 1.930839894413948
+Episode 1800/3000, Total Reward: 92, Avg Reward: 94.78, Avg Loss: 0.2369370737671852
+Episode 1900/3000, Total Reward: 90, Avg Reward: 93.32, Avg Loss: 2.9068942040205004
+Episode 2000/3000, Total Reward: 96, Avg Reward: 93.6, Avg Loss: 2.218341337442398
+Episode 2100/3000, Total Reward: 92, Avg Reward: 91.8, Avg Loss: 4.048093663454056
+Episode 2200/3000, Total Reward: 92, Avg Reward: 92.82, Avg Loss: 2.967407094836235
+Episode 2300/3000, Total Reward: 90, Avg Reward: 92.76, Avg Loss: 2.2850159108638763
+Episode 2400/3000, Total Reward: 90, Avg Reward: 90.72, Avg Loss: 4.282793036699295
+Episode 2500/3000, Total Reward: 90, Avg Reward: 93.76, Avg Loss: 1.6689289486408234
+Episode 2600/3000, Total Reward: 92, Avg Reward: 92.82, Avg Loss: 2.182184121608734
+Episode 2700/3000, Total Reward: 90, Avg Reward: 93.38, Avg Loss: 1.6739649093151092
+Episode 2800/3000, Total Reward: 94, Avg Reward: 94.08, Avg Loss: 1.5297062975168227
+Converged after 2800 episodes with Avg Reward: 94.78
+Model saved at models/a2_100s/trained_model_u572.0.csv.pth
+Processing file: u621.0.csv
+Loaded pretrained model from models/alpha1_c2_best_model.pth
+Episode 100/3000, Total Reward: 64, Avg Reward: 56.12, Avg Loss: 18.967171449661254
+Episode 200/3000, Total Reward: 80, Avg Reward: 74.06, Avg Loss: 9.468701882362366
+Episode 300/3000, Total Reward: 82, Avg Reward: 77.72, Avg Loss: 8.606632680892945
+Episode 400/3000, Total Reward: 90, Avg Reward: 80.82, Avg Loss: 7.274202117919922
+Episode 500/3000, Total Reward: 78, Avg Reward: 80.5, Avg Loss: 8.38757123708725
+Episode 600/3000, Total Reward: 78, Avg Reward: 79.94, Avg Loss: 8.40841148853302
+Episode 700/3000, Total Reward: 78, Avg Reward: 80.06, Avg Loss: 8.475087776184083
+Episode 800/3000, Total Reward: 78, Avg Reward: 81.24, Avg Loss: 7.511353588104248
+Episode 900/3000, Total Reward: 76, Avg Reward: 82.8, Avg Loss: 5.694827179908753
+Episode 1000/3000, Total Reward: 88, Avg Reward: 84.66, Avg Loss: 5.435858328342437
+Episode 1100/3000, Total Reward: 88, Avg Reward: 83.94, Avg Loss: 6.131225628852844
+Episode 1200/3000, Total Reward: 86, Avg Reward: 85.08, Avg Loss: 4.8872300720214845
+Episode 1300/3000, Total Reward: 80, Avg Reward: 84.9, Avg Loss: 6.078259185552597
+Episode 1400/3000, Total Reward: 86, Avg Reward: 84.94, Avg Loss: 6.232775552272797
+Episode 1500/3000, Total Reward: 84, Avg Reward: 84.22, Avg Loss: 5.626533982753753
+Episode 1600/3000, Total Reward: 90, Avg Reward: 84.6, Avg Loss: 6.0155428814888
+Episode 1700/3000, Total Reward: 86, Avg Reward: 84.98, Avg Loss: 6.023315650224686
+Episode 1800/3000, Total Reward: 84, Avg Reward: 86.4, Avg Loss: 4.731152305603027
+Episode 1900/3000, Total Reward: 90, Avg Reward: 85.32, Avg Loss: 5.894770193099975
+Episode 2000/3000, Total Reward: 82, Avg Reward: 85.74, Avg Loss: 5.432692439556122
+Episode 2100/3000, Total Reward: 84, Avg Reward: 86.7, Avg Loss: 4.477838289737702
+Episode 2200/3000, Total Reward: 80, Avg Reward: 86.22, Avg Loss: 4.77709103345871
+Episode 2300/3000, Total Reward: 84, Avg Reward: 85.64, Avg Loss: 4.7374782371521
+Episode 2400/3000, Total Reward: 90, Avg Reward: 86.1, Avg Loss: 5.8508369874954225
+Episode 2500/3000, Total Reward: 86, Avg Reward: 87.16, Avg Loss: 4.680698103904724
+Episode 2600/3000, Total Reward: 90, Avg Reward: 87.66, Avg Loss: 4.736007220745087
+Episode 2700/3000, Total Reward: 96, Avg Reward: 88.96, Avg Loss: 3.3015138912200928
+Episode 2800/3000, Total Reward: 94, Avg Reward: 88.1, Avg Loss: 4.376757262945175
+Episode 2900/3000, Total Reward: 96, Avg Reward: 87.62, Avg Loss: 3.997202032804489
+Episode 3000/3000, Total Reward: 88, Avg Reward: 87.88, Avg Loss: 4.310956053733825
+Model saved at models/a2_100s/trained_model_u621.0.csv.pth
+Processing file: u374.0.csv
+Loaded pretrained model from models/alpha1_c2_best_model.pth
+Episode 100/3000, Total Reward: 90, Avg Reward: 65.86, Avg Loss: 13.489712204933166
+Episode 200/3000, Total Reward: 80, Avg Reward: 83.6, Avg Loss: 6.882421107292175
+Episode 300/3000, Total Reward: 86, Avg Reward: 86.64, Avg Loss: 4.615532364845276
+Episode 400/3000, Total Reward: 90, Avg Reward: 90.18, Avg Loss: 3.8539517664909364
+Episode 500/3000, Total Reward: 88, Avg Reward: 90.5, Avg Loss: 3.5408481478691103
+Episode 600/3000, Total Reward: 94, Avg Reward: 90.82, Avg Loss: 2.4666890120506286
+Episode 700/3000, Total Reward: 98, Avg Reward: 93.46, Avg Loss: 0.7105791020393372
+Episode 800/3000, Total Reward: 94, Avg Reward: 94.96, Avg Loss: 0.8767985028028488
+Episode 900/3000, Total Reward: 98, Avg Reward: 95.32, Avg Loss: 0.536754755973816
+Episode 1000/3000, Total Reward: 98, Avg Reward: 95.64, Avg Loss: 0.22644643008708953
+Episode 1100/3000, Total Reward: 94, Avg Reward: 94.28, Avg Loss: 1.705881245136261
+Episode 1200/3000, Total Reward: 96, Avg Reward: 94.94, Avg Loss: 2.1698891097307205
+Episode 1300/3000, Total Reward: 94, Avg Reward: 95.3, Avg Loss: 1.7206420481204987
+Episode 1400/3000, Total Reward: 96, Avg Reward: 95.34, Avg Loss: 1.6291640985012055
+Episode 1500/3000, Total Reward: 94, Avg Reward: 93.54, Avg Loss: 3.9033548080921174
+Episode 1600/3000, Total Reward: 96, Avg Reward: 94.86, Avg Loss: 1.2968072420358658
+Episode 1700/3000, Total Reward: 100, Avg Reward: 94.24, Avg Loss: 2.988383787870407
+Episode 1800/3000, Total Reward: 98, Avg Reward: 95.18, Avg Loss: 1.317730501294136
+Episode 1900/3000, Total Reward: 94, Avg Reward: 94.86, Avg Loss: 1.7485987156629563
+Episode 2000/3000, Total Reward: 96, Avg Reward: 95.52, Avg Loss: 1.2888121008872986
+Converged after 2000 episodes with Avg Reward: 95.64
+Model saved at models/a2_100s/trained_model_u374.0.csv.pth
+Processing file: u978.0.csv
+Loaded pretrained model from models/alpha1_c2_best_model.pth
+Episode 100/3000, Total Reward: 90, Avg Reward: 67.7, Avg Loss: 11.225457787513733
+Episode 200/3000, Total Reward: 90, Avg Reward: 86.02, Avg Loss: 3.195525860786438
+Episode 300/3000, Total Reward: 90, Avg Reward: 87.62, Avg Loss: 3.1379920971393584
+Episode 400/3000, Total Reward: 96, Avg Reward: 89.98, Avg Loss: 1.8630591464042663
+Episode 500/3000, Total Reward: 86, Avg Reward: 91.68, Avg Loss: 1.525383961200714
+Episode 600/3000, Total Reward: 90, Avg Reward: 91.12, Avg Loss: 2.793992704153061
+Episode 700/3000, Total Reward: 92, Avg Reward: 92.0, Avg Loss: 2.1216265070438385
+Episode 800/3000, Total Reward: 94, Avg Reward: 92.52, Avg Loss: 1.1039440995454788
+Episode 900/3000, Total Reward: 90, Avg Reward: 90.54, Avg Loss: 3.7827207708358763
+Episode 1000/3000, Total Reward: 92, Avg Reward: 89.58, Avg Loss: 1.582403461933136
+Episode 1100/3000, Total Reward: 94, Avg Reward: 90.62, Avg Loss: 2.4300281798839567
+Episode 1200/3000, Total Reward: 90, Avg Reward: 92.78, Avg Loss: 1.1989803957939147
+Episode 1300/3000, Total Reward: 82, Avg Reward: 92.8, Avg Loss: 1.726296945810318
+Episode 1400/3000, Total Reward: 92, Avg Reward: 87.7, Avg Loss: 2.4561089301109313
+Episode 1500/3000, Total Reward: 96, Avg Reward: 92.44, Avg Loss: 0.8625350391864777
+Episode 1600/3000, Total Reward: 98, Avg Reward: 92.42, Avg Loss: 1.6142522585391998
+Episode 1700/3000, Total Reward: 94, Avg Reward: 93.0, Avg Loss: 0.9510962361097336
+Episode 1800/3000, Total Reward: 96, Avg Reward: 94.18, Avg Loss: 0.3482722282409668
+Episode 1900/3000, Total Reward: 90, Avg Reward: 91.84, Avg Loss: 3.508892220258713
+Episode 2000/3000, Total Reward: 92, Avg Reward: 94.0, Avg Loss: 0.6337464267015457
+Episode 2100/3000, Total Reward: 92, Avg Reward: 93.34, Avg Loss: 2.040881097316742
+Episode 2200/3000, Total Reward: 94, Avg Reward: 94.06, Avg Loss: 1.3241731095314027
+Episode 2300/3000, Total Reward: 92, Avg Reward: 92.92, Avg Loss: 3.0190364092588426
+Episode 2400/3000, Total Reward: 90, Avg Reward: 92.56, Avg Loss: 2.812461231946945
+Episode 2500/3000, Total Reward: 94, Avg Reward: 91.6, Avg Loss: 2.1280925065279006
+Episode 2600/3000, Total Reward: 92, Avg Reward: 94.1, Avg Loss: 0.6652100318670273
+Episode 2700/3000, Total Reward: 80, Avg Reward: 93.06, Avg Loss: 0.7034148651361466
+Episode 2800/3000, Total Reward: 94, Avg Reward: 91.54, Avg Loss: 3.6570130014419555
+Converged after 2800 episodes with Avg Reward: 94.18
+Model saved at models/a2_100s/trained_model_u978.0.csv.pth
+Processing file: u661.0.csv
+Loaded pretrained model from models/alpha1_c2_best_model.pth
+Episode 100/3000, Total Reward: 76, Avg Reward: 60.64, Avg Loss: 15.788599467277527
+Episode 200/3000, Total Reward: 78, Avg Reward: 82.92, Avg Loss: 6.179496386051178
+Episode 300/3000, Total Reward: 88, Avg Reward: 88.12, Avg Loss: 4.64631728887558
+Episode 400/3000, Total Reward: 88, Avg Reward: 88.6, Avg Loss: 5.578859570026398
+Episode 500/3000, Total Reward: 100, Avg Reward: 90.66, Avg Loss: 3.130807879567146
+Episode 600/3000, Total Reward: 94, Avg Reward: 91.54, Avg Loss: 2.754123821258545
+Episode 700/3000, Total Reward: 92, Avg Reward: 92.86, Avg Loss: 1.741008620262146
+Episode 800/3000, Total Reward: 94, Avg Reward: 93.0, Avg Loss: 1.5545178920030593
+Episode 900/3000, Total Reward: 92, Avg Reward: 93.64, Avg Loss: 1.504613322019577
+Episode 1000/3000, Total Reward: 92, Avg Reward: 93.74, Avg Loss: 1.1864918392896653
+Episode 1100/3000, Total Reward: 94, Avg Reward: 92.64, Avg Loss: 2.539116134643555
+Episode 1200/3000, Total Reward: 92, Avg Reward: 94.02, Avg Loss: 1.3023522955179214
+Episode 1300/3000, Total Reward: 96, Avg Reward: 93.72, Avg Loss: 2.144822525978088
+Episode 1400/3000, Total Reward: 88, Avg Reward: 94.04, Avg Loss: 2.1470191806554793
+Episode 1500/3000, Total Reward: 96, Avg Reward: 94.64, Avg Loss: 1.7990729707479476
+Episode 1600/3000, Total Reward: 90, Avg Reward: 94.8, Avg Loss: 1.0446530729532242
+Episode 1700/3000, Total Reward: 94, Avg Reward: 93.54, Avg Loss: 3.1770446097850797
+Episode 1800/3000, Total Reward: 96, Avg Reward: 94.42, Avg Loss: 1.2666905701160431
+Episode 1900/3000, Total Reward: 92, Avg Reward: 94.68, Avg Loss: 1.5541164141893387
+Episode 2000/3000, Total Reward: 96, Avg Reward: 95.22, Avg Loss: -0.0878695821762085
+Episode 2100/3000, Total Reward: 96, Avg Reward: 94.32, Avg Loss: 1.4825841015577317
+Episode 2200/3000, Total Reward: 96, Avg Reward: 94.44, Avg Loss: 1.9174369794130326
+Episode 2300/3000, Total Reward: 94, Avg Reward: 95.1, Avg Loss: 1.0340343695878982
+Episode 2400/3000, Total Reward: 94, Avg Reward: 93.46, Avg Loss: 2.849389608502388
+Episode 2500/3000, Total Reward: 96, Avg Reward: 95.3, Avg Loss: 1.7952563911676407
+Episode 2600/3000, Total Reward: 94, Avg Reward: 93.34, Avg Loss: 3.5385319417715073
+Episode 2700/3000, Total Reward: 94, Avg Reward: 95.4, Avg Loss: 1.1996782022714614
+Episode 2800/3000, Total Reward: 100, Avg Reward: 95.12, Avg Loss: 1.4961173933744432
+Episode 2900/3000, Total Reward: 96, Avg Reward: 94.48, Avg Loss: 2.109145487546921
+Episode 3000/3000, Total Reward: 90, Avg Reward: 94.14, Avg Loss: 1.934272006750107
+Model saved at models/a2_100s/trained_model_u661.0.csv.pth
+Processing file: u847.0.csv
+Loaded pretrained model from models/alpha1_c2_best_model.pth
+Episode 100/3000, Total Reward: 74, Avg Reward: 61.6, Avg Loss: 15.529635317325592
+Episode 200/3000, Total Reward: 88, Avg Reward: 85.36, Avg Loss: 5.538995140194893
+Episode 300/3000, Total Reward: 84, Avg Reward: 87.76, Avg Loss: 4.805354816913605
+Episode 400/3000, Total Reward: 92, Avg Reward: 91.54, Avg Loss: 2.0901206105947496
+Episode 500/3000, Total Reward: 98, Avg Reward: 92.08, Avg Loss: 1.8957469356060028
+Episode 600/3000, Total Reward: 92, Avg Reward: 92.48, Avg Loss: 3.3721864503622054
+Episode 700/3000, Total Reward: 94, Avg Reward: 91.98, Avg Loss: 3.51299485206604
+Episode 800/3000, Total Reward: 88, Avg Reward: 91.78, Avg Loss: 1.9315935254096985
+Episode 900/3000, Total Reward: 94, Avg Reward: 89.76, Avg Loss: 3.703585696220398
+Episode 1000/3000, Total Reward: 86, Avg Reward: 90.32, Avg Loss: 3.314246288537979
+Episode 1100/3000, Total Reward: 86, Avg Reward: 92.14, Avg Loss: 2.8588220208883284
+Episode 1200/3000, Total Reward: 96, Avg Reward: 91.38, Avg Loss: 4.012620097398758
+Episode 1300/3000, Total Reward: 90, Avg Reward: 94.6, Avg Loss: 1.6658818173408507
+Episode 1400/3000, Total Reward: 98, Avg Reward: 92.92, Avg Loss: 2.627956399321556
+Episode 1500/3000, Total Reward: 90, Avg Reward: 91.4, Avg Loss: 3.735786987543106
+Episode 1600/3000, Total Reward: 98, Avg Reward: 93.04, Avg Loss: 2.5436190509796144
+Episode 1700/3000, Total Reward: 94, Avg Reward: 92.16, Avg Loss: 3.8224455845355987
+Episode 1800/3000, Total Reward: 92, Avg Reward: 93.46, Avg Loss: 1.961144723892212
+Episode 1900/3000, Total Reward: 92, Avg Reward: 93.58, Avg Loss: 2.5336054193973543
+Episode 2000/3000, Total Reward: 96, Avg Reward: 94.32, Avg Loss: 1.9741496598720552
+Episode 2100/3000, Total Reward: 98, Avg Reward: 95.24, Avg Loss: 0.7683202266693115
+Episode 2200/3000, Total Reward: 96, Avg Reward: 93.98, Avg Loss: 2.014292662143707
+Episode 2300/3000, Total Reward: 96, Avg Reward: 94.8, Avg Loss: 1.7124729090929032
+Episode 2400/3000, Total Reward: 96, Avg Reward: 93.88, Avg Loss: 2.5149931859970094
+Episode 2500/3000, Total Reward: 88, Avg Reward: 94.72, Avg Loss: 1.6304125273227692
+Episode 2600/3000, Total Reward: 92, Avg Reward: 94.28, Avg Loss: 2.427953583598137
+Episode 2700/3000, Total Reward: 90, Avg Reward: 94.5, Avg Loss: 1.3868888425827026
+Episode 2800/3000, Total Reward: 92, Avg Reward: 95.32, Avg Loss: 1.457674154639244
+Episode 2900/3000, Total Reward: 92, Avg Reward: 95.48, Avg Loss: 0.6954147863388062
+Episode 3000/3000, Total Reward: 94, Avg Reward: 93.82, Avg Loss: 1.4583988881111145
+Model saved at models/a2_100s/trained_model_u847.0.csv.pth
+Processing file: u907.0.csv
+Loaded pretrained model from models/alpha1_c2_best_model.pth
+Episode 100/3000, Total Reward: 64, Avg Reward: 60.74, Avg Loss: 15.241500630378724
+Episode 200/3000, Total Reward: 80, Avg Reward: 82.88, Avg Loss: 4.003423209190369
+Episode 300/3000, Total Reward: 92, Avg Reward: 88.2, Avg Loss: 2.916275044679642
+Episode 400/3000, Total Reward: 92, Avg Reward: 89.42, Avg Loss: 2.1044531750679014
+Episode 500/3000, Total Reward: 84, Avg Reward: 87.72, Avg Loss: 4.656959451436997
+Episode 600/3000, Total Reward: 92, Avg Reward: 90.86, Avg Loss: 2.6478553569316863
+Episode 700/3000, Total Reward: 88, Avg Reward: 90.64, Avg Loss: 3.3186827754974364
+Episode 800/3000, Total Reward: 90, Avg Reward: 91.26, Avg Loss: 2.3638120591640472
+Episode 900/3000, Total Reward: 98, Avg Reward: 92.38, Avg Loss: 1.9947029769420623
+Episode 1000/3000, Total Reward: 94, Avg Reward: 92.46, Avg Loss: 3.0867938375473023
+Episode 1100/3000, Total Reward: 94, Avg Reward: 90.6, Avg Loss: 3.9165817523002624
+Episode 1200/3000, Total Reward: 90, Avg Reward: 91.3, Avg Loss: 3.279955328702927
+Episode 1300/3000, Total Reward: 96, Avg Reward: 92.18, Avg Loss: 2.3170028173923494
+Episode 1400/3000, Total Reward: 98, Avg Reward: 91.68, Avg Loss: 2.447673617005348
+Episode 1500/3000, Total Reward: 84, Avg Reward: 92.56, Avg Loss: 2.5305275064706803
+Episode 1600/3000, Total Reward: 90, Avg Reward: 92.2, Avg Loss: 2.9673662704229353
+Episode 1700/3000, Total Reward: 96, Avg Reward: 91.98, Avg Loss: 2.5898855209350584
+Episode 1800/3000, Total Reward: 86, Avg Reward: 91.16, Avg Loss: 3.2624552047252653
+Episode 1900/3000, Total Reward: 92, Avg Reward: 92.46, Avg Loss: 1.8386921775341034
+Episode 2000/3000, Total Reward: 90, Avg Reward: 91.7, Avg Loss: 3.4867581516504287
+Episode 2100/3000, Total Reward: 94, Avg Reward: 91.56, Avg Loss: 2.5044966852664947
+Episode 2200/3000, Total Reward: 94, Avg Reward: 92.08, Avg Loss: 2.8571069169044496
+Episode 2300/3000, Total Reward: 90, Avg Reward: 92.48, Avg Loss: 2.102147784233093
+Episode 2400/3000, Total Reward: 96, Avg Reward: 92.1, Avg Loss: 2.84617138504982
+Episode 2500/3000, Total Reward: 94, Avg Reward: 92.66, Avg Loss: 2.6593715178966524
+Episode 2600/3000, Total Reward: 98, Avg Reward: 94.0, Avg Loss: 1.411874268054962
+Episode 2700/3000, Total Reward: 96, Avg Reward: 92.98, Avg Loss: 2.701035178899765
+Episode 2800/3000, Total Reward: 90, Avg Reward: 92.0, Avg Loss: 2.947560524940491
+Episode 2900/3000, Total Reward: 96, Avg Reward: 91.92, Avg Loss: 3.57598566532135
+Episode 3000/3000, Total Reward: 96, Avg Reward: 92.6, Avg Loss: 2.8676310670375824
+Model saved at models/a2_100s/trained_model_u907.0.csv.pth
+Processing file: u639.0.csv
+Loaded pretrained model from models/alpha1_c2_best_model.pth
+Episode 100/3000, Total Reward: 94, Avg Reward: 71.42, Avg Loss: 14.316885731220246
+Episode 200/3000, Total Reward: 96, Avg Reward: 94.72, Avg Loss: 1.4687268719077111
+Episode 300/3000, Total Reward: 96, Avg Reward: 95.64, Avg Loss: 0.34015085220336916
+Episode 400/3000, Total Reward: 94, Avg Reward: 93.88, Avg Loss: 2.9156704246997833
+Episode 500/3000, Total Reward: 90, Avg Reward: 94.84, Avg Loss: 1.5934046775102615
+Episode 600/3000, Total Reward: 100, Avg Reward: 94.48, Avg Loss: 1.5684250849485397
+Episode 700/3000, Total Reward: 92, Avg Reward: 94.22, Avg Loss: 2.247906733751297
+Episode 800/3000, Total Reward: 94, Avg Reward: 94.14, Avg Loss: 2.0671718472242357
+Episode 900/3000, Total Reward: 98, Avg Reward: 96.02, Avg Loss: 0.7307786479592323
+Episode 1000/3000, Total Reward: 92, Avg Reward: 95.94, Avg Loss: 0.8680310791730881
+Episode 1100/3000, Total Reward: 96, Avg Reward: 94.9, Avg Loss: 1.345342106819153
+Episode 1200/3000, Total Reward: 94, Avg Reward: 95.76, Avg Loss: 1.0904005473852159
+Episode 1300/3000, Total Reward: 94, Avg Reward: 95.18, Avg Loss: 1.4524299430847167
+Episode 1400/3000, Total Reward: 92, Avg Reward: 95.2, Avg Loss: 1.4586438620090485
+Episode 1500/3000, Total Reward: 96, Avg Reward: 93.3, Avg Loss: 3.35414838552475
+Episode 1600/3000, Total Reward: 92, Avg Reward: 95.78, Avg Loss: 1.486165627837181
+Episode 1700/3000, Total Reward: 96, Avg Reward: 97.12, Avg Loss: 0.4391647687554359
+Episode 1800/3000, Total Reward: 100, Avg Reward: 96.24, Avg Loss: 1.1820467537641526
+Episode 1900/3000, Total Reward: 98, Avg Reward: 96.5, Avg Loss: 1.0090517550706863
+Episode 2000/3000, Total Reward: 96, Avg Reward: 96.88, Avg Loss: 0.13127058863639832
+Episode 2100/3000, Total Reward: 94, Avg Reward: 96.2, Avg Loss: 1.2276774728298188
+Episode 2200/3000, Total Reward: 98, Avg Reward: 95.48, Avg Loss: 1.700916815698147
+Episode 2300/3000, Total Reward: 100, Avg Reward: 95.42, Avg Loss: 1.7759067431092261
+Episode 2400/3000, Total Reward: 96, Avg Reward: 96.0, Avg Loss: 0.2871343499422073
+Episode 2500/3000, Total Reward: 96, Avg Reward: 96.76, Avg Loss: 0.5741255047917366
+Episode 2600/3000, Total Reward: 100, Avg Reward: 96.3, Avg Loss: 1.2405555325746536
+Episode 2700/3000, Total Reward: 98, Avg Reward: 97.02, Avg Loss: 0.7195149791240693
+Converged after 2700 episodes with Avg Reward: 97.12
+Model saved at models/a2_100s/trained_model_u639.0.csv.pth
+Processing file: u587.0.csv
+Loaded pretrained model from models/alpha1_c2_best_model.pth
+Episode 100/3000, Total Reward: 72, Avg Reward: 67.22, Avg Loss: 11.751769921779633
+Episode 200/3000, Total Reward: 78, Avg Reward: 85.08, Avg Loss: 3.909216306209564
+Episode 300/3000, Total Reward: 78, Avg Reward: 88.64, Avg Loss: 3.3032221353054045
+Episode 400/3000, Total Reward: 92, Avg Reward: 88.48, Avg Loss: 2.780470641851425
+Episode 500/3000, Total Reward: 92, Avg Reward: 89.92, Avg Loss: 2.5321415162086485
+Episode 600/3000, Total Reward: 90, Avg Reward: 90.48, Avg Loss: 2.883842120170593
+Episode 700/3000, Total Reward: 82, Avg Reward: 89.6, Avg Loss: 2.759740322828293
+Episode 800/3000, Total Reward: 92, Avg Reward: 88.2, Avg Loss: 4.490050327777863
+Episode 900/3000, Total Reward: 92, Avg Reward: 90.96, Avg Loss: 2.80105099439621
+Episode 1000/3000, Total Reward: 90, Avg Reward: 92.16, Avg Loss: 1.6915748339891434
+Episode 1100/3000, Total Reward: 86, Avg Reward: 91.82, Avg Loss: 2.21465775847435
+Episode 1200/3000, Total Reward: 94, Avg Reward: 92.22, Avg Loss: 2.7047788178920746
+Episode 1300/3000, Total Reward: 96, Avg Reward: 93.14, Avg Loss: 1.425740414261818
+Episode 1400/3000, Total Reward: 96, Avg Reward: 93.04, Avg Loss: 1.6424933713674545
+Episode 1500/3000, Total Reward: 96, Avg Reward: 93.34, Avg Loss: 0.8287964940071106
+Episode 1600/3000, Total Reward: 90, Avg Reward: 91.32, Avg Loss: 4.024853145480156
+Episode 1700/3000, Total Reward: 94, Avg Reward: 92.46, Avg Loss: 1.9197988533973693
+Episode 1800/3000, Total Reward: 96, Avg Reward: 91.84, Avg Loss: 3.0829091238975526
+Episode 1900/3000, Total Reward: 100, Avg Reward: 91.28, Avg Loss: 3.7917412692308425
+Episode 2000/3000, Total Reward: 94, Avg Reward: 94.88, Avg Loss: 0.9452775835990905
+Episode 2100/3000, Total Reward: 92, Avg Reward: 93.88, Avg Loss: 1.8357853519916534
+Episode 2200/3000, Total Reward: 96, Avg Reward: 93.64, Avg Loss: 2.838509493470192
+Episode 2300/3000, Total Reward: 90, Avg Reward: 92.1, Avg Loss: 3.5160182738304138
+Episode 2400/3000, Total Reward: 96, Avg Reward: 93.16, Avg Loss: 2.9409707486629486
+Episode 2500/3000, Total Reward: 90, Avg Reward: 92.1, Avg Loss: 3.384760370254517
+Episode 2600/3000, Total Reward: 94, Avg Reward: 93.42, Avg Loss: 2.0827271449565887
+Episode 2700/3000, Total Reward: 94, Avg Reward: 93.4, Avg Loss: 2.728113443851471
+Episode 2800/3000, Total Reward: 96, Avg Reward: 94.14, Avg Loss: 2.0428494989871977
+Episode 2900/3000, Total Reward: 96, Avg Reward: 94.08, Avg Loss: 2.2598377257585525
+Episode 3000/3000, Total Reward: 90, Avg Reward: 93.16, Avg Loss: 2.614906601309776
+Converged after 3000 episodes with Avg Reward: 94.88
+Model saved at models/a2_100s/trained_model_u587.0.csv.pth
+Processing file: u941.0.csv
+Loaded pretrained model from models/alpha1_c2_best_model.pth
+Episode 100/3000, Total Reward: 80, Avg Reward: 68.28, Avg Loss: 11.07749620437622
+Episode 200/3000, Total Reward: 90, Avg Reward: 83.18, Avg Loss: 5.3223220109939575
+Episode 300/3000, Total Reward: 88, Avg Reward: 86.58, Avg Loss: 4.436260468959809
+Episode 400/3000, Total Reward: 86, Avg Reward: 87.4, Avg Loss: 3.4791677451133727
+Episode 500/3000, Total Reward: 88, Avg Reward: 90.08, Avg Loss: 3.9553617918491364
+Episode 600/3000, Total Reward: 96, Avg Reward: 87.94, Avg Loss: 3.555216510295868
+Episode 700/3000, Total Reward: 94, Avg Reward: 91.18, Avg Loss: 1.7044579321146012
+Episode 800/3000, Total Reward: 90, Avg Reward: 92.96, Avg Loss: 1.504066321849823
+Episode 900/3000, Total Reward: 96, Avg Reward: 92.76, Avg Loss: 2.740349828004837
+Episode 1000/3000, Total Reward: 94, Avg Reward: 91.72, Avg Loss: 2.060058572292328
+Episode 1100/3000, Total Reward: 90, Avg Reward: 91.4, Avg Loss: 3.063819046020508
+Episode 1200/3000, Total Reward: 96, Avg Reward: 90.46, Avg Loss: 2.8257190990448
+Episode 1300/3000, Total Reward: 94, Avg Reward: 92.94, Avg Loss: 1.6771064001321792
+Episode 1400/3000, Total Reward: 92, Avg Reward: 93.04, Avg Loss: 1.96018159866333
+Episode 1500/3000, Total Reward: 98, Avg Reward: 93.32, Avg Loss: 2.059462102651596
+Episode 1600/3000, Total Reward: 88, Avg Reward: 92.72, Avg Loss: 2.1532958686351775
+Episode 1700/3000, Total Reward: 94, Avg Reward: 94.12, Avg Loss: 2.2313222181797028
+Episode 1800/3000, Total Reward: 94, Avg Reward: 93.78, Avg Loss: 2.2734805762767794
+Episode 1900/3000, Total Reward: 96, Avg Reward: 92.8, Avg Loss: 1.5687962293624877
+Episode 2000/3000, Total Reward: 94, Avg Reward: 94.24, Avg Loss: 0.7569582146406174
+Episode 2100/3000, Total Reward: 92, Avg Reward: 93.7, Avg Loss: 1.7583461606502533
+Episode 2200/3000, Total Reward: 92, Avg Reward: 93.04, Avg Loss: 3.191767358779907
+Episode 2300/3000, Total Reward: 94, Avg Reward: 93.44, Avg Loss: 1.651600421667099
+Episode 2400/3000, Total Reward: 96, Avg Reward: 94.38, Avg Loss: 1.2778732132911683
+Episode 2500/3000, Total Reward: 92, Avg Reward: 92.98, Avg Loss: 3.036247195005417
+Episode 2600/3000, Total Reward: 100, Avg Reward: 93.38, Avg Loss: 1.6935672599077225
+Episode 2700/3000, Total Reward: 90, Avg Reward: 93.16, Avg Loss: 2.6134180355072023
+Episode 2800/3000, Total Reward: 92, Avg Reward: 92.74, Avg Loss: 3.5771761745214463
+Episode 2900/3000, Total Reward: 92, Avg Reward: 94.42, Avg Loss: 1.6410209518671035
+Episode 3000/3000, Total Reward: 94, Avg Reward: 92.78, Avg Loss: 2.5308584076166154
+Model saved at models/a2_100s/trained_model_u941.0.csv.pth
+Processing file: u894.0.csv
+Loaded pretrained model from models/alpha1_c2_best_model.pth
+Episode 100/3000, Total Reward: 76, Avg Reward: 62.26, Avg Loss: 13.344037256240846
+Episode 200/3000, Total Reward: 84, Avg Reward: 80.56, Avg Loss: 6.210433912277222
+Episode 300/3000, Total Reward: 92, Avg Reward: 87.92, Avg Loss: 3.5556378495693206
+Episode 400/3000, Total Reward: 94, Avg Reward: 90.76, Avg Loss: 2.669560292959213
+Episode 500/3000, Total Reward: 94, Avg Reward: 91.6, Avg Loss: 1.9578436875343324
+Episode 600/3000, Total Reward: 90, Avg Reward: 91.74, Avg Loss: 2.4085056602954866
+Episode 700/3000, Total Reward: 96, Avg Reward: 91.42, Avg Loss: 2.871024088859558
+Episode 800/3000, Total Reward: 98, Avg Reward: 91.66, Avg Loss: 3.958990808725357
+Episode 900/3000, Total Reward: 96, Avg Reward: 92.16, Avg Loss: 3.1225454878807066
+Episode 1000/3000, Total Reward: 90, Avg Reward: 92.3, Avg Loss: 2.4692455077171327
+Episode 1100/3000, Total Reward: 94, Avg Reward: 90.74, Avg Loss: 3.78969347268343
+Episode 1200/3000, Total Reward: 98, Avg Reward: 93.82, Avg Loss: 2.4640247416496277
+Episode 1300/3000, Total Reward: 96, Avg Reward: 93.2, Avg Loss: 2.0990251314640047
+Episode 1400/3000, Total Reward: 94, Avg Reward: 93.32, Avg Loss: 2.3370473843812944
+Episode 1500/3000, Total Reward: 94, Avg Reward: 94.36, Avg Loss: 2.126613847017288
+Episode 1600/3000, Total Reward: 98, Avg Reward: 94.34, Avg Loss: 1.585197651386261
+Episode 1700/3000, Total Reward: 92, Avg Reward: 94.02, Avg Loss: 2.17134443461895
+Episode 1800/3000, Total Reward: 90, Avg Reward: 93.78, Avg Loss: 2.444254918694496
+Episode 1900/3000, Total Reward: 92, Avg Reward: 93.26, Avg Loss: 2.18527472615242
+Episode 2000/3000, Total Reward: 90, Avg Reward: 92.96, Avg Loss: 2.500954878330231
+Episode 2100/3000, Total Reward: 92, Avg Reward: 89.7, Avg Loss: 4.957654410600663
+Episode 2200/3000, Total Reward: 90, Avg Reward: 92.66, Avg Loss: 1.4856764304637908
+Episode 2300/3000, Total Reward: 96, Avg Reward: 92.16, Avg Loss: 3.5678707218170165
+Episode 2400/3000, Total Reward: 98, Avg Reward: 94.28, Avg Loss: 0.7917792963981628
+Episode 2500/3000, Total Reward: 86, Avg Reward: 94.16, Avg Loss: 1.049317841529846
+Converged after 2500 episodes with Avg Reward: 94.36
+Model saved at models/a2_100s/trained_model_u894.0.csv.pth
+Processing file: u521.0.csv
+Loaded pretrained model from models/alpha1_c2_best_model.pth
+Episode 100/3000, Total Reward: 84, Avg Reward: 62.32, Avg Loss: 15.87840138912201
+Episode 200/3000, Total Reward: 88, Avg Reward: 82.74, Avg Loss: 5.207397186756134
+Episode 300/3000, Total Reward: 86, Avg Reward: 88.72, Avg Loss: 4.820864715576172
+Episode 400/3000, Total Reward: 92, Avg Reward: 89.28, Avg Loss: 2.937246326804161
+Episode 500/3000, Total Reward: 94, Avg Reward: 91.04, Avg Loss: 2.73610835313797
+Episode 600/3000, Total Reward: 88, Avg Reward: 90.52, Avg Loss: 3.2450899493694307
+Episode 700/3000, Total Reward: 94, Avg Reward: 93.22, Avg Loss: 1.2688331961631776
+Episode 800/3000, Total Reward: 90, Avg Reward: 92.7, Avg Loss: 1.945583195090294
+Episode 900/3000, Total Reward: 94, Avg Reward: 94.3, Avg Loss: 1.9998675572872162
+Episode 1000/3000, Total Reward: 94, Avg Reward: 93.32, Avg Loss: 2.2483746474981308
+Episode 1100/3000, Total Reward: 90, Avg Reward: 93.54, Avg Loss: 1.6281444430351257
+Episode 1200/3000, Total Reward: 96, Avg Reward: 93.94, Avg Loss: 1.9963710755109787
+Episode 1300/3000, Total Reward: 96, Avg Reward: 92.58, Avg Loss: 2.4292479342222215
+Episode 1400/3000, Total Reward: 94, Avg Reward: 94.1, Avg Loss: 2.2143260502815245
+Episode 1500/3000, Total Reward: 96, Avg Reward: 93.94, Avg Loss: 2.2825112104415894
+Episode 1600/3000, Total Reward: 94, Avg Reward: 94.16, Avg Loss: 1.8619769704341889
+Episode 1700/3000, Total Reward: 90, Avg Reward: 93.4, Avg Loss: 1.7509943437576294
+Episode 1800/3000, Total Reward: 94, Avg Reward: 93.9, Avg Loss: 2.704528048038483
+Episode 1900/3000, Total Reward: 92, Avg Reward: 93.32, Avg Loss: 2.184313220381737
+Converged after 1900 episodes with Avg Reward: 94.3
+Model saved at models/a2_100s/trained_model_u521.0.csv.pth
+Processing file: u466.0.csv
+Loaded pretrained model from models/alpha1_c2_best_model.pth
+Episode 100/3000, Total Reward: 88, Avg Reward: 67.36, Avg Loss: 11.852192566394805
+Episode 200/3000, Total Reward: 82, Avg Reward: 80.88, Avg Loss: 5.86298243522644
+Episode 300/3000, Total Reward: 84, Avg Reward: 87.64, Avg Loss: 2.733523496389389
+Episode 400/3000, Total Reward: 94, Avg Reward: 89.86, Avg Loss: 1.8783081835508346
+Episode 500/3000, Total Reward: 96, Avg Reward: 90.94, Avg Loss: 2.3504596334695815
+Episode 600/3000, Total Reward: 90, Avg Reward: 91.52, Avg Loss: 1.2810145866870881
+Episode 700/3000, Total Reward: 92, Avg Reward: 90.6, Avg Loss: 2.889418267607689
+Episode 800/3000, Total Reward: 96, Avg Reward: 91.42, Avg Loss: 1.513134491443634
+Episode 900/3000, Total Reward: 90, Avg Reward: 92.84, Avg Loss: 0.647981939315796
+Episode 1000/3000, Total Reward: 90, Avg Reward: 92.26, Avg Loss: 1.533814352452755
+Episode 1100/3000, Total Reward: 94, Avg Reward: 93.3, Avg Loss: 0.5967938750982285
+Episode 1200/3000, Total Reward: 92, Avg Reward: 92.08, Avg Loss: 2.826125875711441
+Episode 1300/3000, Total Reward: 98, Avg Reward: 92.98, Avg Loss: 2.056558918952942
+Episode 1400/3000, Total Reward: 96, Avg Reward: 92.48, Avg Loss: 1.97065495967865
+Episode 1500/3000, Total Reward: 92, Avg Reward: 93.22, Avg Loss: 1.8582313442230225
+Episode 1600/3000, Total Reward: 90, Avg Reward: 92.54, Avg Loss: 1.9533951377868652
+Episode 1700/3000, Total Reward: 94, Avg Reward: 91.12, Avg Loss: 3.3819129729270934
+Episode 1800/3000, Total Reward: 96, Avg Reward: 93.28, Avg Loss: 1.9539795899391175
+Episode 1900/3000, Total Reward: 82, Avg Reward: 93.48, Avg Loss: 1.6496754574775696
+Episode 2000/3000, Total Reward: 92, Avg Reward: 92.68, Avg Loss: 3.1718743485212326
+Episode 2100/3000, Total Reward: 92, Avg Reward: 93.7, Avg Loss: 1.6060504734516143
+Episode 2200/3000, Total Reward: 94, Avg Reward: 92.96, Avg Loss: 2.4782095623016356
+Episode 2300/3000, Total Reward: 94, Avg Reward: 93.22, Avg Loss: 2.351430389881134
+Episode 2400/3000, Total Reward: 96, Avg Reward: 93.7, Avg Loss: 2.7787066209316253
+Episode 2500/3000, Total Reward: 96, Avg Reward: 93.54, Avg Loss: 2.5041577827930452
+Episode 2600/3000, Total Reward: 94, Avg Reward: 94.4, Avg Loss: 1.7718052333593368
+Episode 2700/3000, Total Reward: 94, Avg Reward: 94.72, Avg Loss: 1.3417021226882935
+Episode 2800/3000, Total Reward: 96, Avg Reward: 94.94, Avg Loss: 0.22643791377544403
+Episode 2900/3000, Total Reward: 96, Avg Reward: 95.38, Avg Loss: 0.7132482540607452
+Episode 3000/3000, Total Reward: 98, Avg Reward: 94.6, Avg Loss: 1.2976185113191605
+Model saved at models/a2_100s/trained_model_u466.0.csv.pth
+Processing file: u948.0.csv
+Loaded pretrained model from models/alpha1_c2_best_model.pth
+Episode 100/3000, Total Reward: 68, Avg Reward: 64.82, Avg Loss: 12.74472430229187
+Episode 200/3000, Total Reward: 72, Avg Reward: 78.98, Avg Loss: 6.089800519943237
+Episode 300/3000, Total Reward: 74, Avg Reward: 84.0, Avg Loss: 4.5537622761726375
+Episode 400/3000, Total Reward: 84, Avg Reward: 85.22, Avg Loss: 4.372324616909027
+Episode 500/3000, Total Reward: 92, Avg Reward: 88.78, Avg Loss: 2.066523598432541
+Episode 600/3000, Total Reward: 90, Avg Reward: 88.44, Avg Loss: 3.5277536195516586
+Episode 700/3000, Total Reward: 78, Avg Reward: 87.68, Avg Loss: 3.2065270924568177
+Episode 800/3000, Total Reward: 84, Avg Reward: 88.46, Avg Loss: 3.2050069618225097
+Episode 900/3000, Total Reward: 92, Avg Reward: 90.56, Avg Loss: 1.4377290427684783
+Episode 1000/3000, Total Reward: 94, Avg Reward: 91.3, Avg Loss: 1.7843113815784455
+Episode 1100/3000, Total Reward: 90, Avg Reward: 89.74, Avg Loss: 3.553557895421982
+Episode 1200/3000, Total Reward: 92, Avg Reward: 89.76, Avg Loss: 3.991012146472931
+Episode 1300/3000, Total Reward: 94, Avg Reward: 91.52, Avg Loss: 1.7830919814109802
+Episode 1400/3000, Total Reward: 92, Avg Reward: 90.86, Avg Loss: 2.415920605659485
+Episode 1500/3000, Total Reward: 94, Avg Reward: 91.58, Avg Loss: 3.053831694126129
+Episode 1600/3000, Total Reward: 92, Avg Reward: 90.54, Avg Loss: 3.942575078010559
+Episode 1700/3000, Total Reward: 92, Avg Reward: 91.5, Avg Loss: 1.1816218900680542
+Episode 1800/3000, Total Reward: 94, Avg Reward: 90.56, Avg Loss: 3.388637914657593
+Episode 1900/3000, Total Reward: 88, Avg Reward: 88.86, Avg Loss: 5.03769935131073
+Episode 2000/3000, Total Reward: 88, Avg Reward: 91.14, Avg Loss: 2.939400652647018
+Episode 2100/3000, Total Reward: 94, Avg Reward: 90.98, Avg Loss: 2.8310173881053924
+Episode 2200/3000, Total Reward: 90, Avg Reward: 91.64, Avg Loss: 1.8438348484039306
+Episode 2300/3000, Total Reward: 92, Avg Reward: 91.72, Avg Loss: 2.3926928758621218
+Episode 2400/3000, Total Reward: 88, Avg Reward: 91.14, Avg Loss: 2.4859884494543074
+Episode 2500/3000, Total Reward: 94, Avg Reward: 92.28, Avg Loss: 2.3377976536750795
+Episode 2600/3000, Total Reward: 96, Avg Reward: 92.28, Avg Loss: 2.286840739250183
+Episode 2700/3000, Total Reward: 84, Avg Reward: 89.7, Avg Loss: 6.208599971532822
+Episode 2800/3000, Total Reward: 100, Avg Reward: 89.92, Avg Loss: 3.0594624710083007
+Episode 2900/3000, Total Reward: 88, Avg Reward: 92.04, Avg Loss: 1.8209264856576919
+Episode 3000/3000, Total Reward: 96, Avg Reward: 92.36, Avg Loss: 2.438904050588608
+Model saved at models/a2_100s/trained_model_u948.0.csv.pth
+Processing file: u474.0.csv
+Loaded pretrained model from models/alpha1_c2_best_model.pth
+Episode 100/3000, Total Reward: 70, Avg Reward: 61.88, Avg Loss: 13.75135009288788
+Episode 200/3000, Total Reward: 80, Avg Reward: 84.54, Avg Loss: 4.557750372886658
+Episode 300/3000, Total Reward: 84, Avg Reward: 85.54, Avg Loss: 5.283188134431839
+Episode 400/3000, Total Reward: 94, Avg Reward: 87.88, Avg Loss: 2.9317445331811904
+Episode 500/3000, Total Reward: 94, Avg Reward: 89.12, Avg Loss: 4.02762463927269
+Episode 600/3000, Total Reward: 92, Avg Reward: 89.42, Avg Loss: 3.0122753989696505
+Episode 700/3000, Total Reward: 90, Avg Reward: 88.76, Avg Loss: 4.511526068449021
+Episode 800/3000, Total Reward: 84, Avg Reward: 89.4, Avg Loss: 3.165384179353714
+Episode 900/3000, Total Reward: 92, Avg Reward: 90.2, Avg Loss: 2.911928803920746
+Episode 1000/3000, Total Reward: 96, Avg Reward: 90.62, Avg Loss: 2.2484163892269136
+Episode 1100/3000, Total Reward: 92, Avg Reward: 92.2, Avg Loss: 2.7871443259716036
+Episode 1200/3000, Total Reward: 90, Avg Reward: 91.4, Avg Loss: 3.0509863901138305
+Episode 1300/3000, Total Reward: 94, Avg Reward: 91.24, Avg Loss: 3.197280996441841
+Episode 1400/3000, Total Reward: 86, Avg Reward: 90.46, Avg Loss: 3.400101065635681
+Episode 1500/3000, Total Reward: 90, Avg Reward: 90.08, Avg Loss: 4.657209694981575
+Episode 1600/3000, Total Reward: 90, Avg Reward: 92.56, Avg Loss: 1.6530919927358627
+Episode 1700/3000, Total Reward: 92, Avg Reward: 93.14, Avg Loss: 0.9520213711261749
+Episode 1800/3000, Total Reward: 94, Avg Reward: 90.94, Avg Loss: 3.7387825727462767
+Episode 1900/3000, Total Reward: 96, Avg Reward: 91.94, Avg Loss: 2.717375149726868
+Episode 2000/3000, Total Reward: 96, Avg Reward: 91.94, Avg Loss: 2.4216802847385406
+Episode 2100/3000, Total Reward: 92, Avg Reward: 93.24, Avg Loss: 1.849474048614502
+Episode 2200/3000, Total Reward: 96, Avg Reward: 93.24, Avg Loss: 2.059217277765274
+Episode 2300/3000, Total Reward: 92, Avg Reward: 92.34, Avg Loss: 2.5383274257183075
+Episode 2400/3000, Total Reward: 94, Avg Reward: 92.38, Avg Loss: 2.7820021760463716
+Episode 2500/3000, Total Reward: 90, Avg Reward: 91.4, Avg Loss: 3.615058255195618
+Episode 2600/3000, Total Reward: 92, Avg Reward: 92.6, Avg Loss: 2.994470146894455
+Episode 2700/3000, Total Reward: 100, Avg Reward: 92.46, Avg Loss: 2.0677837228775022
+Episode 2800/3000, Total Reward: 96, Avg Reward: 92.5, Avg Loss: 2.3969472074508666
+Episode 2900/3000, Total Reward: 88, Avg Reward: 92.64, Avg Loss: 1.9786351418495178
+Episode 3000/3000, Total Reward: 96, Avg Reward: 93.8, Avg Loss: 1.2313406926393509
+Model saved at models/a2_100s/trained_model_u474.0.csv.pth
+Processing file: u371.0.csv
+Loaded pretrained model from models/alpha1_c2_best_model.pth
+Episode 100/3000, Total Reward: 76, Avg Reward: 65.3, Avg Loss: 11.972237792015076
+Episode 200/3000, Total Reward: 92, Avg Reward: 84.08, Avg Loss: 3.4487380731105803
+Episode 300/3000, Total Reward: 82, Avg Reward: 86.66, Avg Loss: 3.436181375980377
+Episode 400/3000, Total Reward: 88, Avg Reward: 86.14, Avg Loss: 4.864048781394959
+Episode 500/3000, Total Reward: 80, Avg Reward: 87.94, Avg Loss: 3.302799826860428
+Episode 600/3000, Total Reward: 84, Avg Reward: 88.92, Avg Loss: 2.814748569726944
+Episode 700/3000, Total Reward: 82, Avg Reward: 89.0, Avg Loss: 3.408934036493301
+Episode 800/3000, Total Reward: 90, Avg Reward: 89.7, Avg Loss: 3.3161269760131837
+Episode 900/3000, Total Reward: 86, Avg Reward: 89.24, Avg Loss: 1.603442349433899
+Episode 1000/3000, Total Reward: 88, Avg Reward: 89.94, Avg Loss: 2.8336853867769243
+Episode 1100/3000, Total Reward: 94, Avg Reward: 90.46, Avg Loss: 2.7529584270715715
+Episode 1200/3000, Total Reward: 86, Avg Reward: 91.8, Avg Loss: 2.9305428063869474
+Episode 1300/3000, Total Reward: 92, Avg Reward: 90.52, Avg Loss: 4.352903304696083
+Episode 1400/3000, Total Reward: 86, Avg Reward: 90.9, Avg Loss: 3.4651919662952424
+Episode 1500/3000, Total Reward: 86, Avg Reward: 91.06, Avg Loss: 2.534225010871887
+Episode 1600/3000, Total Reward: 88, Avg Reward: 92.48, Avg Loss: 2.752371907234192
+Episode 1700/3000, Total Reward: 84, Avg Reward: 89.88, Avg Loss: 5.2432159125804905
+Episode 1800/3000, Total Reward: 90, Avg Reward: 90.26, Avg Loss: 5.176512463092804
+Episode 1900/3000, Total Reward: 92, Avg Reward: 91.84, Avg Loss: 2.6526519203186036
+Episode 2000/3000, Total Reward: 92, Avg Reward: 92.38, Avg Loss: 2.1870069193840025
+Episode 2100/3000, Total Reward: 94, Avg Reward: 91.06, Avg Loss: 3.5291589379310606
+Episode 2200/3000, Total Reward: 92, Avg Reward: 92.88, Avg Loss: 2.4382388150691985
+Episode 2300/3000, Total Reward: 94, Avg Reward: 92.9, Avg Loss: 2.3644201803207396
+Episode 2400/3000, Total Reward: 90, Avg Reward: 91.02, Avg Loss: 3.4624727392196655
+Episode 2500/3000, Total Reward: 90, Avg Reward: 91.24, Avg Loss: 3.093344570398331
+Episode 2600/3000, Total Reward: 88, Avg Reward: 90.42, Avg Loss: 4.442792303562165
+Episode 2700/3000, Total Reward: 98, Avg Reward: 92.46, Avg Loss: 2.4352216601371763
+Episode 2800/3000, Total Reward: 88, Avg Reward: 93.32, Avg Loss: 1.3903473579883576
+Episode 2900/3000, Total Reward: 92, Avg Reward: 92.66, Avg Loss: 2.3489983689785006
+Episode 3000/3000, Total Reward: 94, Avg Reward: 93.26, Avg Loss: 2.2263298738002777
+Model saved at models/a2_100s/trained_model_u371.0.csv.pth
+Processing file: u893.0.csv
+Loaded pretrained model from models/alpha1_c2_best_model.pth
+Episode 100/3000, Total Reward: 80, Avg Reward: 61.42, Avg Loss: 16.739930319786072
+Episode 200/3000, Total Reward: 82, Avg Reward: 84.94, Avg Loss: 5.398975369930267
+Episode 300/3000, Total Reward: 90, Avg Reward: 88.78, Avg Loss: 3.598926397562027
+Episode 400/3000, Total Reward: 94, Avg Reward: 89.44, Avg Loss: 4.599176092147827
+Episode 500/3000, Total Reward: 90, Avg Reward: 91.3, Avg Loss: 2.3726036953926086
+Episode 600/3000, Total Reward: 94, Avg Reward: 93.02, Avg Loss: 2.5108348339796067
+Episode 700/3000, Total Reward: 92, Avg Reward: 92.12, Avg Loss: 3.474564861059189
+Episode 800/3000, Total Reward: 92, Avg Reward: 93.06, Avg Loss: 1.5998554480075837
+Episode 900/3000, Total Reward: 88, Avg Reward: 92.58, Avg Loss: 2.8948720586299896
+Episode 1000/3000, Total Reward: 92, Avg Reward: 91.2, Avg Loss: 3.37272204041481
+Episode 1100/3000, Total Reward: 90, Avg Reward: 93.52, Avg Loss: 2.338047211766243
+Episode 1200/3000, Total Reward: 96, Avg Reward: 94.7, Avg Loss: 2.052098484039307
+Episode 1300/3000, Total Reward: 96, Avg Reward: 93.14, Avg Loss: 2.3148145776987077
+Episode 1400/3000, Total Reward: 88, Avg Reward: 94.32, Avg Loss: 1.9563176774978637
+Episode 1500/3000, Total Reward: 94, Avg Reward: 92.36, Avg Loss: 3.634024237394333
+Episode 1600/3000, Total Reward: 96, Avg Reward: 94.88, Avg Loss: 0.9168206083774567
+Episode 1700/3000, Total Reward: 94, Avg Reward: 93.4, Avg Loss: 2.184262266755104
+Episode 1800/3000, Total Reward: 96, Avg Reward: 92.16, Avg Loss: 3.450868521928787
+Episode 1900/3000, Total Reward: 94, Avg Reward: 94.28, Avg Loss: 1.998250249028206
+Episode 2000/3000, Total Reward: 90, Avg Reward: 94.24, Avg Loss: 2.2037773507833482
+Episode 2100/3000, Total Reward: 96, Avg Reward: 93.86, Avg Loss: 2.3344029027223585
+Episode 2200/3000, Total Reward: 94, Avg Reward: 94.7, Avg Loss: 2.090467522740364
+Episode 2300/3000, Total Reward: 96, Avg Reward: 95.14, Avg Loss: 2.1206905388832094
+Episode 2400/3000, Total Reward: 88, Avg Reward: 94.86, Avg Loss: 1.576272479891777
+Episode 2500/3000, Total Reward: 96, Avg Reward: 94.44, Avg Loss: 2.876562085151672
+Episode 2600/3000, Total Reward: 96, Avg Reward: 95.32, Avg Loss: 2.1455139893293382
+Episode 2700/3000, Total Reward: 92, Avg Reward: 94.44, Avg Loss: 2.5480251795053483
+Episode 2800/3000, Total Reward: 96, Avg Reward: 93.7, Avg Loss: 3.4979493188858033
+Episode 2900/3000, Total Reward: 96, Avg Reward: 94.38, Avg Loss: 1.7992716372013091
+Episode 3000/3000, Total Reward: 96, Avg Reward: 94.88, Avg Loss: 2.29635322034359
+Model saved at models/a2_100s/trained_model_u893.0.csv.pth
+Processing file: u550.0.csv
+Loaded pretrained model from models/alpha1_c2_best_model.pth
+Episode 100/3000, Total Reward: 58, Avg Reward: 60.52, Avg Loss: 16.90296904563904
+Episode 200/3000, Total Reward: 82, Avg Reward: 74.8, Avg Loss: 9.251776905059815
+Episode 300/3000, Total Reward: 76, Avg Reward: 85.38, Avg Loss: 6.623257780075074
+Episode 400/3000, Total Reward: 80, Avg Reward: 87.2, Avg Loss: 5.880928790569305
+Episode 500/3000, Total Reward: 94, Avg Reward: 90.06, Avg Loss: 1.4284090602397919
+Episode 600/3000, Total Reward: 96, Avg Reward: 91.74, Avg Loss: 2.6446713221073153
+Episode 700/3000, Total Reward: 98, Avg Reward: 92.36, Avg Loss: 2.2494894921779633
+Episode 800/3000, Total Reward: 98, Avg Reward: 91.98, Avg Loss: 1.6402409613132476
+Episode 900/3000, Total Reward: 92, Avg Reward: 94.82, Avg Loss: 0.8320688903331757
+Episode 1000/3000, Total Reward: 92, Avg Reward: 93.48, Avg Loss: 2.6739795172214507
+Episode 1100/3000, Total Reward: 98, Avg Reward: 93.26, Avg Loss: 1.9221699172258377
+Episode 1200/3000, Total Reward: 94, Avg Reward: 93.5, Avg Loss: 2.2796232968568804
+Episode 1300/3000, Total Reward: 98, Avg Reward: 93.86, Avg Loss: 2.3235955929756162
+Episode 1400/3000, Total Reward: 90, Avg Reward: 94.66, Avg Loss: 0.5571288049221039
+Episode 1500/3000, Total Reward: 96, Avg Reward: 93.48, Avg Loss: 3.0777316427230836
+Episode 1600/3000, Total Reward: 94, Avg Reward: 93.92, Avg Loss: 2.473204698562622
+Episode 1700/3000, Total Reward: 92, Avg Reward: 92.46, Avg Loss: 3.513277146816254
+Episode 1800/3000, Total Reward: 92, Avg Reward: 90.72, Avg Loss: 4.205205039978027
+Episode 1900/3000, Total Reward: 94, Avg Reward: 92.24, Avg Loss: 2.2051884269714357
+Converged after 1900 episodes with Avg Reward: 94.82
+Model saved at models/a2_100s/trained_model_u550.0.csv.pth
+Processing file: u740.0.csv
+Loaded pretrained model from models/alpha1_c2_best_model.pth
+Episode 100/3000, Total Reward: 94, Avg Reward: 68.42, Avg Loss: 14.367094997167587
+Episode 200/3000, Total Reward: 96, Avg Reward: 93.56, Avg Loss: 2.7331726518273354
+Episode 300/3000, Total Reward: 94, Avg Reward: 92.3, Avg Loss: 3.137701411545277
+Episode 400/3000, Total Reward: 94, Avg Reward: 93.66, Avg Loss: 2.4014410227537155
+Episode 500/3000, Total Reward: 96, Avg Reward: 94.68, Avg Loss: 0.982699204981327
+Episode 600/3000, Total Reward: 94, Avg Reward: 94.9, Avg Loss: 0.7635097098350525
+Episode 700/3000, Total Reward: 90, Avg Reward: 95.48, Avg Loss: 0.201031414270401
+Episode 800/3000, Total Reward: 96, Avg Reward: 95.24, Avg Loss: 0.5594562911987304
+Episode 900/3000, Total Reward: 96, Avg Reward: 95.76, Avg Loss: 1.0997901254892348
+Episode 1000/3000, Total Reward: 98, Avg Reward: 97.14, Avg Loss: -0.3223027965426445
+Episode 1100/3000, Total Reward: 94, Avg Reward: 94.72, Avg Loss: 2.477393978238106
+Episode 1200/3000, Total Reward: 98, Avg Reward: 96.06, Avg Loss: 1.0004000556468964
+Episode 1300/3000, Total Reward: 94, Avg Reward: 95.94, Avg Loss: 0.8334798276424408
+Episode 1400/3000, Total Reward: 84, Avg Reward: 95.4, Avg Loss: 1.8046183815598489
+Episode 1500/3000, Total Reward: 96, Avg Reward: 95.42, Avg Loss: 1.120067754983902
+Episode 1600/3000, Total Reward: 96, Avg Reward: 95.36, Avg Loss: 0.939221662580967
+Episode 1700/3000, Total Reward: 96, Avg Reward: 94.92, Avg Loss: 2.0192004758119584
+Episode 1800/3000, Total Reward: 100, Avg Reward: 95.7, Avg Loss: 0.2305458664894104
+Episode 1900/3000, Total Reward: 96, Avg Reward: 94.52, Avg Loss: 1.8104506385326387
+Episode 2000/3000, Total Reward: 96, Avg Reward: 96.76, Avg Loss: 0.5634323060512543
+Converged after 2000 episodes with Avg Reward: 97.14
+Model saved at models/a2_100s/trained_model_u740.0.csv.pth
+Processing file: u837.0.csv
+Loaded pretrained model from models/alpha1_c2_best_model.pth
+Episode 100/3000, Total Reward: 56, Avg Reward: 53.02, Avg Loss: 19.041355090141295
+Episode 200/3000, Total Reward: 68, Avg Reward: 70.74, Avg Loss: 11.246305480003358
+Episode 300/3000, Total Reward: 84, Avg Reward: 78.66, Avg Loss: 8.268350057601928
+Episode 400/3000, Total Reward: 78, Avg Reward: 81.92, Avg Loss: 7.44699716091156
+Episode 500/3000, Total Reward: 90, Avg Reward: 82.9, Avg Loss: 5.8790108108520505
+Episode 600/3000, Total Reward: 84, Avg Reward: 83.88, Avg Loss: 6.110989985466003
+Episode 700/3000, Total Reward: 82, Avg Reward: 84.22, Avg Loss: 5.333680908679963
+Episode 800/3000, Total Reward: 84, Avg Reward: 84.1, Avg Loss: 5.555873072147369
+Episode 900/3000, Total Reward: 92, Avg Reward: 84.92, Avg Loss: 6.103130877017975
+Episode 1000/3000, Total Reward: 88, Avg Reward: 86.06, Avg Loss: 4.495734558105469
+Episode 1100/3000, Total Reward: 88, Avg Reward: 86.02, Avg Loss: 5.687453992366791
+Episode 1200/3000, Total Reward: 88, Avg Reward: 86.2, Avg Loss: 4.723666529655457
+Episode 1300/3000, Total Reward: 82, Avg Reward: 86.46, Avg Loss: 4.890669121742248
+Episode 1400/3000, Total Reward: 84, Avg Reward: 85.74, Avg Loss: 5.856768424510956
+Episode 1500/3000, Total Reward: 86, Avg Reward: 86.78, Avg Loss: 4.632521694898605
+Episode 1600/3000, Total Reward: 90, Avg Reward: 84.48, Avg Loss: 6.57322571516037
+Episode 1700/3000, Total Reward: 74, Avg Reward: 86.2, Avg Loss: 5.553482440710067
+Episode 1800/3000, Total Reward: 92, Avg Reward: 84.76, Avg Loss: 6.484114664793014
+Episode 1900/3000, Total Reward: 88, Avg Reward: 87.12, Avg Loss: 4.080757572650909
+Episode 2000/3000, Total Reward: 88, Avg Reward: 87.1, Avg Loss: 4.521109662055969
+Episode 2100/3000, Total Reward: 88, Avg Reward: 88.4, Avg Loss: 4.1764167940616606
+Episode 2200/3000, Total Reward: 86, Avg Reward: 88.08, Avg Loss: 3.751920167207718
+Episode 2300/3000, Total Reward: 86, Avg Reward: 88.9, Avg Loss: 3.4217784774303435
+Episode 2400/3000, Total Reward: 90, Avg Reward: 88.66, Avg Loss: 4.387714558839798
+Episode 2500/3000, Total Reward: 92, Avg Reward: 87.26, Avg Loss: 4.588819622993469
+Episode 2600/3000, Total Reward: 92, Avg Reward: 89.18, Avg Loss: 3.3541610276699068
+Episode 2700/3000, Total Reward: 86, Avg Reward: 88.18, Avg Loss: 4.207120430469513
+Episode 2800/3000, Total Reward: 88, Avg Reward: 90.0, Avg Loss: 3.064408168196678
+Episode 2900/3000, Total Reward: 84, Avg Reward: 88.44, Avg Loss: 5.417794847488404
+Episode 3000/3000, Total Reward: 90, Avg Reward: 90.42, Avg Loss: 2.9753438413143156
+Model saved at models/a2_100s/trained_model_u837.0.csv.pth
+Processing file: u582.0.csv
+Loaded pretrained model from models/alpha1_c2_best_model.pth
+Episode 100/3000, Total Reward: 86, Avg Reward: 67.1, Avg Loss: 12.05556074142456
+Episode 200/3000, Total Reward: 82, Avg Reward: 83.28, Avg Loss: 5.419524328708649
+Episode 300/3000, Total Reward: 90, Avg Reward: 87.08, Avg Loss: 3.9556001567840577
+Episode 400/3000, Total Reward: 96, Avg Reward: 91.44, Avg Loss: 1.36521792948246
+Episode 500/3000, Total Reward: 92, Avg Reward: 92.42, Avg Loss: 1.911503907442093
+Episode 600/3000, Total Reward: 98, Avg Reward: 93.7, Avg Loss: 1.1517091929912566
+Episode 700/3000, Total Reward: 92, Avg Reward: 93.84, Avg Loss: 1.7033514034748078
+Episode 800/3000, Total Reward: 100, Avg Reward: 94.02, Avg Loss: 0.7996701800823212
+Episode 900/3000, Total Reward: 90, Avg Reward: 93.34, Avg Loss: 2.626386239528656
+Episode 1000/3000, Total Reward: 92, Avg Reward: 93.94, Avg Loss: 1.5552330923080444
+Episode 1100/3000, Total Reward: 84, Avg Reward: 93.9, Avg Loss: 2.3505493199825285
+Episode 1200/3000, Total Reward: 96, Avg Reward: 92.18, Avg Loss: 3.516983392238617
+Episode 1300/3000, Total Reward: 92, Avg Reward: 93.4, Avg Loss: 3.136478279829025
+Episode 1400/3000, Total Reward: 94, Avg Reward: 95.04, Avg Loss: 0.9295658767223358
+Episode 1500/3000, Total Reward: 96, Avg Reward: 95.18, Avg Loss: 0.4845085370540619
+Episode 1600/3000, Total Reward: 92, Avg Reward: 94.82, Avg Loss: 1.4574014937877655
+Episode 1700/3000, Total Reward: 96, Avg Reward: 94.14, Avg Loss: 2.0892626315355303
+Episode 1800/3000, Total Reward: 90, Avg Reward: 93.18, Avg Loss: 2.0503232407569887
+Episode 1900/3000, Total Reward: 96, Avg Reward: 94.08, Avg Loss: 2.2869455540180206
+Episode 2000/3000, Total Reward: 96, Avg Reward: 93.48, Avg Loss: 3.620631196498871
+Episode 2100/3000, Total Reward: 92, Avg Reward: 94.74, Avg Loss: 2.306785690188408
+Episode 2200/3000, Total Reward: 98, Avg Reward: 94.14, Avg Loss: 1.5273683089017869
+Episode 2300/3000, Total Reward: 92, Avg Reward: 93.66, Avg Loss: 2.1556212055683135
+Episode 2400/3000, Total Reward: 94, Avg Reward: 95.0, Avg Loss: 1.2502023375034332
+Episode 2500/3000, Total Reward: 94, Avg Reward: 95.0, Avg Loss: 1.6948261189460754
+Converged after 2500 episodes with Avg Reward: 95.18
+Model saved at models/a2_100s/trained_model_u582.0.csv.pth
+Processing file: u586.0.csv
+Loaded pretrained model from models/alpha1_c2_best_model.pth
+Episode 100/3000, Total Reward: 82, Avg Reward: 68.38, Avg Loss: 11.820756425857544
+Episode 200/3000, Total Reward: 94, Avg Reward: 84.34, Avg Loss: 3.8777460753917694
+Episode 300/3000, Total Reward: 94, Avg Reward: 88.78, Avg Loss: 2.5431311857700347
+Episode 400/3000, Total Reward: 96, Avg Reward: 88.54, Avg Loss: 4.056422673463821
+Episode 500/3000, Total Reward: 98, Avg Reward: 89.92, Avg Loss: 4.7923442125320435
+Episode 600/3000, Total Reward: 90, Avg Reward: 90.18, Avg Loss: 2.375917463302612
+Episode 700/3000, Total Reward: 86, Avg Reward: 89.86, Avg Loss: 2.956767251491547
+Episode 800/3000, Total Reward: 96, Avg Reward: 90.32, Avg Loss: 3.9516259133815765
+Episode 900/3000, Total Reward: 88, Avg Reward: 90.1, Avg Loss: 1.8241511046886445
+Episode 1000/3000, Total Reward: 86, Avg Reward: 90.08, Avg Loss: 4.495672843456268
+Episode 1100/3000, Total Reward: 92, Avg Reward: 90.94, Avg Loss: 3.040850623846054
+Episode 1200/3000, Total Reward: 96, Avg Reward: 91.76, Avg Loss: 2.561469632387161
+Episode 1300/3000, Total Reward: 92, Avg Reward: 91.26, Avg Loss: 3.058043723106384
+Episode 1400/3000, Total Reward: 96, Avg Reward: 91.28, Avg Loss: 2.461558326482773
+Episode 1500/3000, Total Reward: 88, Avg Reward: 92.34, Avg Loss: 1.6911090886592866
+Episode 1600/3000, Total Reward: 96, Avg Reward: 93.36, Avg Loss: 1.591441155076027
+Episode 1700/3000, Total Reward: 90, Avg Reward: 92.22, Avg Loss: 2.030561932325363
+Episode 1800/3000, Total Reward: 92, Avg Reward: 92.32, Avg Loss: 2.8299286794662475
+Episode 1900/3000, Total Reward: 90, Avg Reward: 91.66, Avg Loss: 2.8534030652046205
+Episode 2000/3000, Total Reward: 84, Avg Reward: 92.18, Avg Loss: 2.827706665992737
+Episode 2100/3000, Total Reward: 92, Avg Reward: 91.84, Avg Loss: 2.8959797585010527
+Episode 2200/3000, Total Reward: 88, Avg Reward: 91.78, Avg Loss: 3.4415927827358246
+Episode 2300/3000, Total Reward: 88, Avg Reward: 92.14, Avg Loss: 2.4828218984603883
+Episode 2400/3000, Total Reward: 92, Avg Reward: 92.34, Avg Loss: 2.3675150907039644
+Episode 2500/3000, Total Reward: 98, Avg Reward: 92.0, Avg Loss: 2.594240493774414
+Episode 2600/3000, Total Reward: 92, Avg Reward: 93.06, Avg Loss: 2.3404647636413576
+Converged after 2600 episodes with Avg Reward: 93.36
+Model saved at models/a2_100s/trained_model_u586.0.csv.pth
+Processing file: u405.0.csv
+Loaded pretrained model from models/alpha1_c2_best_model.pth
+Episode 100/3000, Total Reward: 80, Avg Reward: 66.32, Avg Loss: 11.11146059513092
+Episode 200/3000, Total Reward: 88, Avg Reward: 85.24, Avg Loss: 3.5625548577308654
+Episode 300/3000, Total Reward: 88, Avg Reward: 88.7, Avg Loss: 2.4548272627592085
+Episode 400/3000, Total Reward: 94, Avg Reward: 88.14, Avg Loss: 4.1973621213436125
+Episode 500/3000, Total Reward: 90, Avg Reward: 88.76, Avg Loss: 3.1321656799316404
+Episode 600/3000, Total Reward: 94, Avg Reward: 89.8, Avg Loss: 1.9290149450302123
+Episode 700/3000, Total Reward: 90, Avg Reward: 90.62, Avg Loss: 2.0339186030626295
+Episode 800/3000, Total Reward: 96, Avg Reward: 92.34, Avg Loss: 1.6134093236923217
+Episode 900/3000, Total Reward: 84, Avg Reward: 92.02, Avg Loss: 2.7187703359127045
+Episode 1000/3000, Total Reward: 94, Avg Reward: 90.7, Avg Loss: 3.505968157052994
+Episode 1100/3000, Total Reward: 88, Avg Reward: 91.78, Avg Loss: 2.369670328497887
+Episode 1200/3000, Total Reward: 90, Avg Reward: 92.26, Avg Loss: 1.764868330359459
+Episode 1300/3000, Total Reward: 92, Avg Reward: 92.1, Avg Loss: 2.5743412804603576
+Episode 1400/3000, Total Reward: 100, Avg Reward: 93.14, Avg Loss: 2.3408398443460463
+Episode 1500/3000, Total Reward: 90, Avg Reward: 92.1, Avg Loss: 2.2697452396154403
+Episode 1600/3000, Total Reward: 96, Avg Reward: 92.58, Avg Loss: 2.6531212282180787
+Episode 1700/3000, Total Reward: 90, Avg Reward: 92.46, Avg Loss: 2.3003431129455567
+Episode 1800/3000, Total Reward: 92, Avg Reward: 90.98, Avg Loss: 3.4236670261621476
+Episode 1900/3000, Total Reward: 88, Avg Reward: 93.16, Avg Loss: 1.3994664061069488
+Episode 2000/3000, Total Reward: 90, Avg Reward: 92.44, Avg Loss: 2.4440126049518587
+Episode 2100/3000, Total Reward: 94, Avg Reward: 91.74, Avg Loss: 2.4762428784370423
+Episode 2200/3000, Total Reward: 98, Avg Reward: 92.34, Avg Loss: 2.372012026309967
+Episode 2300/3000, Total Reward: 84, Avg Reward: 92.48, Avg Loss: 2.42582111120224
+Episode 2400/3000, Total Reward: 96, Avg Reward: 91.92, Avg Loss: 2.5476054835319517
+Episode 2500/3000, Total Reward: 94, Avg Reward: 92.6, Avg Loss: 1.1433575707674026
+Episode 2600/3000, Total Reward: 94, Avg Reward: 92.8, Avg Loss: 2.0472217059135436
+Episode 2700/3000, Total Reward: 94, Avg Reward: 93.02, Avg Loss: 2.055845761299133
+Episode 2800/3000, Total Reward: 96, Avg Reward: 92.48, Avg Loss: 2.0849445307254793
+Episode 2900/3000, Total Reward: 90, Avg Reward: 93.54, Avg Loss: 1.8278714233636857
+Episode 3000/3000, Total Reward: 86, Avg Reward: 93.72, Avg Loss: 1.8082433366775512
+Model saved at models/a2_100s/trained_model_u405.0.csv.pth
+Processing file: u970.0.csv
+Loaded pretrained model from models/alpha1_c2_best_model.pth
+Episode 100/3000, Total Reward: 72, Avg Reward: 60.34, Avg Loss: 15.930110964775086
+Episode 200/3000, Total Reward: 76, Avg Reward: 82.38, Avg Loss: 6.028944456577301
+Episode 300/3000, Total Reward: 90, Avg Reward: 89.52, Avg Loss: 3.2527215814590456
+Episode 400/3000, Total Reward: 90, Avg Reward: 92.14, Avg Loss: 3.0696513414382935
+Episode 500/3000, Total Reward: 98, Avg Reward: 92.4, Avg Loss: 2.422032346725464
+Episode 600/3000, Total Reward: 96, Avg Reward: 94.2, Avg Loss: 0.22809074878692626
+Episode 700/3000, Total Reward: 98, Avg Reward: 94.44, Avg Loss: 1.2797149455547332
+Episode 800/3000, Total Reward: 92, Avg Reward: 93.72, Avg Loss: 2.2415754318237306
+Episode 900/3000, Total Reward: 96, Avg Reward: 93.64, Avg Loss: 3.0379053366184237
+Episode 1000/3000, Total Reward: 92, Avg Reward: 92.92, Avg Loss: 2.606065114736557
+Episode 1100/3000, Total Reward: 92, Avg Reward: 93.46, Avg Loss: 2.6468527907133104
+Episode 1200/3000, Total Reward: 88, Avg Reward: 93.56, Avg Loss: 2.552985394001007
+Episode 1300/3000, Total Reward: 98, Avg Reward: 93.48, Avg Loss: 1.9666955518722533
+Episode 1400/3000, Total Reward: 92, Avg Reward: 94.68, Avg Loss: 1.1185741031169891
+Episode 1500/3000, Total Reward: 90, Avg Reward: 93.64, Avg Loss: 2.6122291260957717
+Episode 1600/3000, Total Reward: 94, Avg Reward: 92.38, Avg Loss: 3.875957251787186
+Episode 1700/3000, Total Reward: 92, Avg Reward: 95.92, Avg Loss: 0.2511632192134857
+Episode 1800/3000, Total Reward: 96, Avg Reward: 94.6, Avg Loss: 2.321540427207947
+Episode 1900/3000, Total Reward: 92, Avg Reward: 94.8, Avg Loss: 1.464951868057251
+Episode 2000/3000, Total Reward: 96, Avg Reward: 93.34, Avg Loss: 3.7752948021888733
+Episode 2100/3000, Total Reward: 98, Avg Reward: 94.88, Avg Loss: 1.8539362686872483
+Episode 2200/3000, Total Reward: 92, Avg Reward: 95.06, Avg Loss: 1.6847590160369874
+Episode 2300/3000, Total Reward: 94, Avg Reward: 95.32, Avg Loss: 1.081312784552574
+Episode 2400/3000, Total Reward: 90, Avg Reward: 94.56, Avg Loss: 2.4436330723762514
+Episode 2500/3000, Total Reward: 100, Avg Reward: 95.6, Avg Loss: 0.7499299144744873
+Episode 2600/3000, Total Reward: 94, Avg Reward: 95.88, Avg Loss: 0.1254429829120636
+Episode 2700/3000, Total Reward: 92, Avg Reward: 95.84, Avg Loss: 1.2573089933395385
+Converged after 2700 episodes with Avg Reward: 95.92
+Model saved at models/a2_100s/trained_model_u970.0.csv.pth
+Processing file: u628.0.csv
+Loaded pretrained model from models/alpha1_c2_best_model.pth
+Episode 100/3000, Total Reward: 96, Avg Reward: 73.5, Avg Loss: 14.249413459300994
+Episode 200/3000, Total Reward: 100, Avg Reward: 95.1, Avg Loss: 2.2990274584293364
+Episode 300/3000, Total Reward: 90, Avg Reward: 96.9, Avg Loss: 1.2163534973561765
+Episode 400/3000, Total Reward: 98, Avg Reward: 95.06, Avg Loss: 2.9931583708524703
+Episode 500/3000, Total Reward: 96, Avg Reward: 94.3, Avg Loss: 3.3167414873838426
+Episode 600/3000, Total Reward: 94, Avg Reward: 96.62, Avg Loss: 1.0072533056139945
+Episode 700/3000, Total Reward: 96, Avg Reward: 95.64, Avg Loss: 2.1300848829746246
+Episode 800/3000, Total Reward: 98, Avg Reward: 97.26, Avg Loss: 0.9015750905871391
+Episode 900/3000, Total Reward: 98, Avg Reward: 97.38, Avg Loss: 1.3606580424308776
+Episode 1000/3000, Total Reward: 98, Avg Reward: 97.48, Avg Loss: 0.8340116094052792
+Episode 1100/3000, Total Reward: 100, Avg Reward: 97.82, Avg Loss: 0.7730716642737389
+Episode 1200/3000, Total Reward: 98, Avg Reward: 97.84, Avg Loss: 0.5642324450612068
+Episode 1300/3000, Total Reward: 96, Avg Reward: 94.76, Avg Loss: 3.8751416942477226
+Episode 1400/3000, Total Reward: 98, Avg Reward: 97.34, Avg Loss: 1.6408917772769929
+Episode 1500/3000, Total Reward: 96, Avg Reward: 98.5, Avg Loss: 0.16853514924645424
+Episode 1600/3000, Total Reward: 96, Avg Reward: 97.12, Avg Loss: 1.214776724278927
+Episode 1700/3000, Total Reward: 96, Avg Reward: 98.58, Avg Loss: 0.1440182964503765
+Episode 1800/3000, Total Reward: 96, Avg Reward: 96.2, Avg Loss: 2.4825467258691787
+Episode 1900/3000, Total Reward: 94, Avg Reward: 97.36, Avg Loss: 1.4479603543877602
+Episode 2000/3000, Total Reward: 100, Avg Reward: 98.16, Avg Loss: 0.3229149630665779
+Episode 2100/3000, Total Reward: 92, Avg Reward: 95.82, Avg Loss: 2.3717317885160445
+Episode 2200/3000, Total Reward: 96, Avg Reward: 96.78, Avg Loss: 0.7869088327884675
+Episode 2300/3000, Total Reward: 98, Avg Reward: 97.02, Avg Loss: 1.5944131883978843
+Episode 2400/3000, Total Reward: 98, Avg Reward: 98.0, Avg Loss: 0.6036284996569157
+Episode 2500/3000, Total Reward: 98, Avg Reward: 97.14, Avg Loss: 1.3981501141190529
+Episode 2600/3000, Total Reward: 98, Avg Reward: 97.94, Avg Loss: 0.6259304901957512
+Episode 2700/3000, Total Reward: 100, Avg Reward: 98.28, Avg Loss: 0.345865662842989
+Converged after 2700 episodes with Avg Reward: 98.58
+Model saved at models/a2_100s/trained_model_u628.0.csv.pth
+Processing file: u425.0.csv
+Loaded pretrained model from models/alpha1_c2_best_model.pth
+Episode 100/3000, Total Reward: 78, Avg Reward: 64.02, Avg Loss: 12.676405801773072
+Episode 200/3000, Total Reward: 86, Avg Reward: 81.42, Avg Loss: 4.733489992618561
+Episode 300/3000, Total Reward: 90, Avg Reward: 86.62, Avg Loss: 2.957581180334091
+Episode 400/3000, Total Reward: 92, Avg Reward: 87.72, Avg Loss: 3.6695090413093565
+Episode 500/3000, Total Reward: 94, Avg Reward: 88.46, Avg Loss: 3.525432366132736
+Episode 600/3000, Total Reward: 86, Avg Reward: 87.68, Avg Loss: 4.6499633276462555
+Episode 700/3000, Total Reward: 96, Avg Reward: 87.32, Avg Loss: 4.806824195384979
+Episode 800/3000, Total Reward: 88, Avg Reward: 90.4, Avg Loss: 2.608565937876701
+Episode 900/3000, Total Reward: 84, Avg Reward: 90.32, Avg Loss: 3.4801647329330443
+Episode 1000/3000, Total Reward: 90, Avg Reward: 90.8, Avg Loss: 2.7877647292613985
+Episode 1100/3000, Total Reward: 98, Avg Reward: 90.38, Avg Loss: 3.487976059913635
+Episode 1200/3000, Total Reward: 92, Avg Reward: 92.16, Avg Loss: 1.9989976072311402
+Episode 1300/3000, Total Reward: 98, Avg Reward: 92.02, Avg Loss: 2.233597460985184
+Episode 1400/3000, Total Reward: 92, Avg Reward: 92.06, Avg Loss: 2.4946210938692093
+Episode 1500/3000, Total Reward: 100, Avg Reward: 91.8, Avg Loss: 4.10866993188858
+Episode 1600/3000, Total Reward: 90, Avg Reward: 92.14, Avg Loss: 2.95050064265728
+Episode 1700/3000, Total Reward: 100, Avg Reward: 91.68, Avg Loss: 3.1167840361595154
+Episode 1800/3000, Total Reward: 90, Avg Reward: 93.44, Avg Loss: 2.2829126155376436
+Episode 1900/3000, Total Reward: 92, Avg Reward: 90.4, Avg Loss: 4.453993126153946
+Episode 2000/3000, Total Reward: 92, Avg Reward: 88.4, Avg Loss: 4.785867179632187
+Episode 2100/3000, Total Reward: 90, Avg Reward: 89.98, Avg Loss: 2.7575029027462006
+Episode 2200/3000, Total Reward: 86, Avg Reward: 91.28, Avg Loss: 2.9283094465732575
+Episode 2300/3000, Total Reward: 90, Avg Reward: 93.28, Avg Loss: 1.3738337635993958
+Episode 2400/3000, Total Reward: 92, Avg Reward: 92.3, Avg Loss: 1.5627780866622925
+Episode 2500/3000, Total Reward: 92, Avg Reward: 91.14, Avg Loss: 3.8371856951713563
+Episode 2600/3000, Total Reward: 94, Avg Reward: 92.96, Avg Loss: 2.4139143085479735
+Episode 2700/3000, Total Reward: 90, Avg Reward: 91.66, Avg Loss: 2.526174260377884
+Episode 2800/3000, Total Reward: 88, Avg Reward: 93.14, Avg Loss: 1.2700115925073623
+Converged after 2800 episodes with Avg Reward: 93.44
+Model saved at models/a2_100s/trained_model_u425.0.csv.pth
+Processing file: u546.0.csv
+Loaded pretrained model from models/alpha1_c2_best_model.pth
+Episode 100/3000, Total Reward: 70, Avg Reward: 57.8, Avg Loss: 17.612248287200927
+Episode 200/3000, Total Reward: 80, Avg Reward: 76.88, Avg Loss: 9.115386400222778
+Episode 300/3000, Total Reward: 84, Avg Reward: 86.46, Avg Loss: 5.518346648216248
+Episode 400/3000, Total Reward: 92, Avg Reward: 88.28, Avg Loss: 3.3288827037811277
+Episode 500/3000, Total Reward: 90, Avg Reward: 93.36, Avg Loss: 1.354770702123642
+Episode 600/3000, Total Reward: 94, Avg Reward: 92.88, Avg Loss: 3.1303877633810044
+Episode 700/3000, Total Reward: 92, Avg Reward: 94.66, Avg Loss: 0.6529688119888306
+Episode 800/3000, Total Reward: 90, Avg Reward: 93.7, Avg Loss: 2.016170809268951
+Episode 900/3000, Total Reward: 92, Avg Reward: 93.06, Avg Loss: 2.4285637509822844
+Episode 1000/3000, Total Reward: 90, Avg Reward: 92.96, Avg Loss: 2.4507246553897857
+Episode 1100/3000, Total Reward: 94, Avg Reward: 93.48, Avg Loss: 2.1374386751651766
+Episode 1200/3000, Total Reward: 90, Avg Reward: 93.7, Avg Loss: 2.1799548214673994
+Episode 1300/3000, Total Reward: 92, Avg Reward: 93.6, Avg Loss: 1.8949874103069306
+Episode 1400/3000, Total Reward: 98, Avg Reward: 94.24, Avg Loss: 2.143016903400421
+Episode 1500/3000, Total Reward: 98, Avg Reward: 94.84, Avg Loss: 1.1823763126134872
+Episode 1600/3000, Total Reward: 96, Avg Reward: 91.76, Avg Loss: 3.8543912994861604
+Episode 1700/3000, Total Reward: 98, Avg Reward: 94.96, Avg Loss: 1.1229843932390213
+Episode 1800/3000, Total Reward: 96, Avg Reward: 93.4, Avg Loss: 1.6629333698749542
+Episode 1900/3000, Total Reward: 94, Avg Reward: 93.3, Avg Loss: 1.7121674579381942
+Episode 2000/3000, Total Reward: 94, Avg Reward: 94.1, Avg Loss: 2.2383445537090303
+Episode 2100/3000, Total Reward: 94, Avg Reward: 94.2, Avg Loss: 1.7421667149662972
+Episode 2200/3000, Total Reward: 94, Avg Reward: 94.0, Avg Loss: 2.1241859120130537
+Episode 2300/3000, Total Reward: 92, Avg Reward: 94.0, Avg Loss: 1.4633511209487915
+Episode 2400/3000, Total Reward: 92, Avg Reward: 94.38, Avg Loss: 1.768322201371193
+Episode 2500/3000, Total Reward: 98, Avg Reward: 93.78, Avg Loss: 2.175609501004219
+Episode 2600/3000, Total Reward: 96, Avg Reward: 94.04, Avg Loss: 2.1171611577272413
+Episode 2700/3000, Total Reward: 94, Avg Reward: 95.2, Avg Loss: 1.8412914860248566
+Episode 2800/3000, Total Reward: 94, Avg Reward: 95.08, Avg Loss: 1.2797915405035019
+Episode 2900/3000, Total Reward: 92, Avg Reward: 93.58, Avg Loss: 2.602920913696289
+Episode 3000/3000, Total Reward: 94, Avg Reward: 94.04, Avg Loss: 2.9705986857414244
+Model saved at models/a2_100s/trained_model_u546.0.csv.pth
